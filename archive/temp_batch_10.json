@@ -1,0 +1,224 @@
+{
+  "results": {
+    "837": {
+      "page_type": "mixed",
+      "page_header": "826    Hydraulic Cylinder Handbook",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Nano-composite brush plating technology is not only a new technology in surface engineering, but also a key technology for manufacturing precision ceramic materials. It is a new method. Nano-composite brush plating technology is a combination of nano technology and traditional brush plating technology, which not only maintains the functions of brush plating, electroplating, chemical plating and other technologies, but also expands their application scope and has gained wider and stronger applications."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(1) Improving the wear resistance of part surfaces"
+        },
+        {
+          "type": "paragraph",
+          "text": "By adding nano-ceramic particles into the plating solution to carry out nano-composite brush plating, when nano-ceramic particle powder is dispersed in the base metal coating, it forms a full metal-ceramic composite coating. The brush plating coating contains a large number of nano-ceramic hard particles, making the brush plating layer highly wear-resistant. Using this kind of brush plating can replace the processes of chrome plating, carburizing, nitriding, and hard chromium plating, etc."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(2) Reducing the surface roughness of parts"
+        },
+        {
+          "type": "paragraph",
+          "text": "By adding nano-scale particles with reduced friction (such as nano-diamond particles, molybdenum disulfide, graphite, etc.) into the brush plating solution for nano-composite brush plating, the obtained composite coating has a low friction coefficient. This type of nano-composite brush plating solution with dispersed nano particles distributed within it has the characteristic of several individual reduced areas reaching the effect of reducing friction of parts, and can also reduce the wear of parts and extend their service life."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(3) Improving the high-temperature wear resistance of part surfaces"
+        },
+        {
+          "type": "paragraph",
+          "text": "By adding metal-ceramic powder brush plating coating material into the nano-composite brush plating, particularly the metal-ceramic coating which has excellent high-temperature resistance. When the brush plating layer is working at high temperatures, the ceramic phase can maintain high-temperature stability, and the brush plating layer as a whole can also serve as support, effectively improving the high-temperature wear resistance of the brush plating layer."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(4) Improving the fatigue resistance of part surfaces"
+        },
+        {
+          "type": "paragraph",
+          "text": "Many surface engineering techniques require plating layers, which can also be used to restore damaged part dimensions and geometric shapes, improve part surface corrosion resistance, wear resistance, and can withstand alternating loads. Nano-composite brush plating layers have relatively high fatigue resistance."
+        },
+        {
+          "type": "paragraph",
+          "text": "properties, because nano-composite brush plating contains thousands of nano-sized solid particles deposited in the weak areas of the coating, equivalent to placing many position control lines with no number of \"limiting posts\". This \"limiting post\" can effectively limit the crystal within the coating as a type of internal stress. The existence of this also changes the stress state of the crystal. Therefore, the nano-composite brush plating layer has excellent fatigue resistance, which is far superior to ordinary brush plating layers."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(5) Improving the service performance of metal surfaces"
+        },
+        {
+          "type": "paragraph",
+          "text": "Many parts or workpieces are made from or use metallic coatings, mainly to achieve good electrical conductivity, thermal conductivity, corrosion resistance, anti-fouling and other properties. The forming process is to create a colored metal intermediate layer (liquid plating, copper alloy brush plating treatment may turn green, brass color) (solid silver plating), which can all be applied using this technology."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(6) Practical aspects of re-manufacturing are mainly focused on brush"
+        },
+        {
+          "type": "paragraph",
+          "text": "The focus of the re-manufacturing process is to first determine the original part dimensions and geometric tolerances. Therefore, the traditional brush plating method is used first for rapid restoration of the plating layer to the required dimensional tolerance on the part surface, and then nano-composite brush plating technology is used for dimensional correction on the surface brush plating layer as the working layer, to improve the part surface properties. Using brush plating or brush plating + brush plating nano-composite coating repair and supplementation on parts (such as scratches, pitting, cracks on journal, piston rod, etc.) is a fast and meaningful technology."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because brush plating technology has become a traditional or common technology, it is relatively familiar. Here, this is not further elaborated."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2. Brush Plating Repair Technology Process"
+        },
+        {
+          "type": "paragraph",
+          "text": "The general process of nano-composite brush plating is shown in Table 6-7, which is commonly used for brush plating repair of metal materials. The nano-composite brush plating process is shown in Table 6-8."
+        },
+        {
+          "type": "table",
+          "caption": "Table 6-7 General Process of Nano-Composite Brush Plating",
+          "headers": ["Process No.", "Process Name", "Process Content and Purpose", "Remarks"],
+          "rows": [
+            ["1", "Surface preparation", "Remove oil stains, repair surface, protect non-plating surfaces", ""],
+            ["2", "Electrochemical cleaning", "Electrochemical degreasing", "Brush pen positive polarity"],
+            ["3", "Activation", "Electrolytic etching of surface; removal of oxide, fatigue layer", "Brush pen negative polarity"],
+            ["4", "Pre-activation", "Electrolytic polishing of surface; removal of carbon deposits, surface blackening", "Brush pen positive polarity"],
+            ["5", "Base coat plating", "Improve interface bonding strength", "Brush pen positive polarity"],
+            ["6", "Dimensional layer plating", "Rapidly restore dimensions", "Brush pen positive polarity"],
+            ["7", "Working layer plating", "Meet dimensional accuracy and surface performance", "Brush pen positive polarity"],
+            ["8", "Post-treatment", "Blow dry, bake dry, remove oil, remove stress, grind, polish, etc.", "According to application requirements"]
+          ]
+        }
+      ]
+    },
+    "849": {
+      "page_type": "mixed",
+      "page_header": "838    Hydraulic Cylinder Handbook",
+      "sections": [
+        {
+          "type": "table",
+          "caption": "Table 6-17 Laser Repair Technology",
+          "headers": ["Serial No.", "Name", "Application Field", "Main Content", "Main Problems Solved", "Category"],
+          "rows": [
+            ["", "", "", "Catalog of Remanufacturing Technology and Equipment for Electromechanical Products (I. Remanufacturing Forming and Processing Technology)", "", ""],
+            ["1", "Laser cladding forming and repair technology", "Automotive industry, machinery manufacturing, petrochemical, metallurgical industry, etc.", "Various coating materials are applied on the substrate surface using different methods, through laser cladding to form and restore the original shape and function, rapidly solidify the cladding layer and base metal to form a metallurgical bond, achieving rapid surface solidification of the cladding layer to repair wear, corrosion, and deformation of parts. It can also be used for surface modification of existing parts, improving part surface performance through resource conservation and environmental benefits.", "Solving laser three-dimensional forming dimensional accuracy control and performance improvement technology problems. Three-dimensional direct laser forming of metal parts further improves the remanufacturing forming of three-dimensional parts with complex geometries, further improving resource conservation, economy and environmental benefits.", "Industrialization demonstration"],
+            ["", "", "", "Typical Electromechanical Product Remanufacturing Technology and Equipment", "", ""],
+            ["2", "Engine crankshaft laser remanufacturing technology", "Automotive engine crankshaft", "Commonly used repair for C, with thermal spraying and other coatings that exist in large deformation areas with insufficient bond strength or unreasonable thickness gaps, using laser cladding to repair the coating. Through transition layer and base material metallurgical bonding, achieving improvement of crankshaft bending deformation properties and life, and restoring crankshaft journal and fillet surface standard dimensions to realize crankshaft remanufacturing.", "Mainly solving crankshaft bending axis journal repair reaching over standard dimensions is still acceptable in 20mm range. Determining laser cladding repair material matching and cladding process parameters. Predicting laser cladding fillet crankshaft bending deformation and cladding layer structure control. Manufacturing precision machining of cladding layer.", "Development"],
+            ["17", "Hydraulic support column laser remanufacturing technology", "Mining machinery and equipment for hydraulic support, upright column repair", "Mainly repairing mining hydraulic support twin telescoping upright columns, middle cylinder outer surface, inner cylinder inner surface. Using laser cladding repair technology and high-pressure plating methods, and a column-by-column full surface comprehensive non-destructive repair method for the upright columns.", "Products can be successfully repaired in the required process stages. Hydraulic cylinder costs can be reduced by approximately 2/3. Service life ratio of hydraulic cylinders can be increased by 2-3 times.", ""],
+            ["23", "Concrete pump truck laser remanufacturing technology", "Concrete pump truck, engineering machinery, hybrid concrete pump truck remanufacturing", "Using high-energy laser beam irradiation to process materials (coating layer materials and substrates) surfaces to rapidly melt, expand and develop rapid solidification. On the base material surface to form special performance (such as wear resistance, corrosion resistance, heat resistance, oxidation resistance, etc.) metallurgical composite coating process. It can produce both a variety of conventional compositions and composite coatings of different combinations.", "Remanufacturing technology has obvious effects on thin-wall rollers entering remanufacturing. It can be separated and the laser remanufacturing technology can be used for the equipment components. Through laser remanufacturing, production of non-standard format products.", ""]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "With the continuous progress of high-power laser equipment reliability improvement and laser technology in petrochemical, metallurgical, electric power, aerospace, mining and other industries for repair and remanufacturing of key parts, it has been widely applied and achieved significant economic benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Based on reference [86], laser remanufacturing technology should be the preferred application of laser beams for reconditioning of waste parts through various laser processing procedures, and based on the different effects of laser treatment of parts and materials, the following applications are obtained. Figure 6-5 shows some commonly used laser remanufacturing technologies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Laser remanufacturing technology can mainly be divided into two major categories: laser surface direct technology and laser processing forming technology. Laser remanufacturing technology is mainly aimed at surface grinding, corrosion, impact, abrasion and other damaged parts (including dimensions and precision), and at the same time improving the wear resistance of re-processed parts. Currently, in the remanufacturing process, using the reconditioning of waste material as the key component of remanufacturing technology has important significance. And currently in the remanufacturing process."
+        }
+      ]
+    },
+    "852": {
+      "page_type": "text",
+      "page_header": "Chapter 6    Remanufacturing of Hydraulic Cylinders    841",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "materials) and gaps, these will cause the cutting force during turning to fluctuate, causing relatively large impact and vibration during the machining process. Therefore, the requirements for the lathe, fixtures, tools, and the process system's rigidity need to be higher, and the strength of the tool also needs to meet higher requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due to the metal cladding layer being dense with hard spots, pores and other hard thermal spray coating internal hard spots, plus the vibration during the cutting process, it is easy to cause non-normal tool wear and chipping, resulting in loss of cutting ability."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3) Tool materials"
+        },
+        {
+          "type": "paragraph",
+          "text": "Due to the metal cladding layer and thermal spray coating generally having relatively high hardness and heat resistance, especially high hardness and high cutting force generation during machining and large cutting forces, the accelerated tool wear is one of the major difficulties. Even using cemented carbide tools for cutting, the tool life is limited. This creates production efficiency issues."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4) Thermal spray coating is prone to delamination"
+        },
+        {
+          "type": "paragraph",
+          "text": "The bond strength between the thermal spray coating and the substrate is not very high. Using the brush plating process, the coating connected with the body structure acts as a composite machine tool structure. The bond tensile strength is generally 30-50MPa. Due to the coating being relatively thin, it is difficult to perform cutting machining, with the risk of cutting through to a certain extent. The coating is easily peeled off and is prone to this."
+        },
+        {
+          "type": "paragraph",
+          "text": "The cladding layer has a certain hardness and wear resistance. When performing cutting machining, the vibration and impact forces generated during machining are not less than the service life of turning tools, and to ensure the tool has a certain service life. According to the current commonly used tool materials and cutting performance characteristics, roughing may use carbide grades such as YG8, YT5, YW1 and other tools. These tool materials have good toughness, moderate strength and better cutting performance. When adding cutting fluid for turning, the tool should also have good heat resistance. When cutting, attention should also be paid to the remaining cooling after cutting of the residual hardness of the surface, \"holes\", and vibration. At this time, the tool should have relatively good toughness and hardness, such as cemented carbide YT15 tools."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2. Turning of Stainless Steel Cladding Layers"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stainless steel cladding layers mostly use austenitic stainless steel welding rod for cladding, which is composed of austenite. Austenitic stainless steel has good ductility, work hardening tendency during processing and cutting, and with a cutting hardness of 45 HRC for 1/3, austenitic stainless steel also has difficult-to-machine characteristics."
+        },
+        {
+          "type": "paragraph",
+          "text": "For stainless steel cladding layers, YT cemented carbide tools cannot be used because the Ti in YT cemented carbide and the elements of the workpiece material such as iron cause affinity and surface adhesion, leading to chipping. Therefore, it is generally recommended to use YG, YH, or YW type cemented carbide tools, which can also achieve high-performance high-speed cutting tools. Tool geometric parameters: rake angle 5°~6°; relief angle 4°~6°; inclination angle -5°~0°; approach angle reduced as small as possible. Large nose radius, cutting depth a_p = 1.5~2mm, f = 0.3~0.4mm/r, v_c = 14~18m/min."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "6.6.2.1 Turning of Cladding Layers"
+        },
+        {
+          "type": "paragraph",
+          "text": "Using cladding methods to restore the original dimensions of worn parts is a very common remanufacturing method. The cladding layer has a certain hardness and wear resistance, and since the cladding method for rapid restoration uses cladding welding rod materials, the thickness variation is large and uneven, surface oxidation and internal structural changes. Whether the cladding layer or process integrity is complete requires careful consideration and attention."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1. Low alloy steel cladding layer turning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Low alloy cladding layers, due to the different carbon content of the cladding welding rod, the obtained cladding layer hardness is also different. From the surface hardness, it is medium to high hardness cladding layers and high hardness cladding layers. In the remanufacturing process, the commonly used medium hardness cladding layers, the cladding layer structure after cooling is mainly martensite. The cladding layer has a small amount of ferrite structure. After cooling to completion, it produces martensitic lath structure. Pay attention to the cooling rate. The hardness of medium hardness cladding layers is 200~350HBW (such as Type 107 welding rod, the cladding layer hardness is approximately 250HBW; Type 127 welding rod, the cladding layer hardness is approximately 350HBW). The cladding layer base metal contains Cr, Mn and other alloy elements dissolved into the ferrite body, which leads to solid solution strengthening and causes the cladding layer to have a certain degree of hardness and wear resistance, as well as good impact resistance."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "6.6.2.2 Turning of Thermal Spray Coatings"
+        },
+        {
+          "type": "paragraph",
+          "text": "The main characteristic of thermal spray coatings is high hardness with good wear resistance. Their hardness can reach 50~70HRC. Because this is a type of thermal spray coating, it can be very difficult to machine. For specific situations, it is still necessary to conduct turning operations. The tool parameters and various cutting parameters need to meet certain special requirements."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1. Selection of Tool Materials"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thermal spray coatings require tools with certain hardness, the most important being resistance to abrasion and wear. Generally, thermal spray coating tools that perform well include the following three categories:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1) Adding TiC (titanium carbide), TaC (tantalum carbide), NbC (niobium carbide) ultrafine particle cemented carbide in cemented carbide is mainly used to improve the high-temperature hardness and strength of cemented carbide. Its sintering temperature is 3500~3880°C, and the surface can be obtained."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wear resistance of the material; preventing WC crystal grains from growing coarse during sintering, and thereby improving YG cemented carbide composition and grain surface hardness; improving the impact toughness and bending strength relationship; improving the formation of MC and other carbide compositions by the specific high-temperature structure of WC and TaC, reducing composition changes, thereby reducing the drop in tool life, edge chipping and other characteristics. In crystalline cemented carbide, due to WC and cobalt being highly dispersed,"
+        }
+      ]
+    }
+  }
+}

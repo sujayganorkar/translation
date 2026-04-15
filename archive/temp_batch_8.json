@@ -1,0 +1,308 @@
+{
+  "results": {
+    "760": {
+      "page_type": "text",
+      "page_header": "Chapter 5  Test Methods for Hydraulic Cylinders",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Compared with the diagram specified in Figure 1 of the 2009 standard (hydraulic system schematic for inspection of double-acting piston-type hydraulic cylinders) and the diagram specified in GB/T 15622-2005 (Figure 4, type test hydraulic cylinder hydraulic schematic), there has been certain technical advancement, but there are still some areas that are not fully satisfactory."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "In the test hydraulic cylinder circuit diagram, GB/T 13342-2007 has given more consideration to the temperature measurement at the hydraulic cylinder oil port than the hydraulic schematic in the return circuit, including the cooler and filter in the circuit.",
+            "In addition to the hydraulic cylinder circuit, GB/T 13342-2007 has added a one-way throttle valve to the oil circuit for short-circuit flushing, which can be used to regulate the flow rate for back pressure measurement and testing; compared to GB/T 15622-2005, the output circuit ratio is reduced, with one less overflow valve.",
+            "The regulation of the temperature gauge at the hydraulic cylinder oil port and the pressure gauge and flow meter installation position conforms to relevant national standards.",
+            "The flow meter is behind the cooler and filter, and the return pipe has the same oil circuit, which has a certain impact on the hydraulic cylinder test accuracy."
+        ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The graphic symbols are mostly similar in the two standards, but are not entirely the same.",
+            "All items marked as filter cleaners (3, 27, 29 — filter cleaners) have the same designation (hydraulic) filter."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "CB/T 3812-2013 test method for the oil used for material testing is CB/T 3812-2013 (test) or environmental adaptability (test), which are also not specified in GB/T 15622-2005 or JB/T 10205-2010."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Material testing: to verify the quality of each component.",
+            "Cleaning testing: clean the hydraulic cylinder interior, then fill with test fluid. For example, a cleaning device placed at the oil port with a filter (precision of 0.8μm) for filtration. After the filter is clogged, weigh it. The ratio of the weight after filtration to the weight before filtration is used to determine the cleanliness of the hydraulic cylinder cavity, which is the weight of the contaminants."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "3) Environmental adaptability test: at an ambient temperature of 65°C ± 5°C, raise the test hydraulic cylinder temperature to 70°C ± 2°C, with the hydraulic cylinder running at 100-120mm/s speed, the full stroke continuous reciprocation for 1h; at an ambient temperature of -25°C ± 2°C, maintain for 0.5h, then fill with hydraulic oil at a temperature of -15°C, operate for 10min."
+        },
+        {
+          "type": "paragraph",
+          "text": "The \"test\" has a clearly defined term, while each term for material testing may also be called \"material testing\". In the hydraulic cylinder test standard, the material listed with its grade and material description is obvious. Although the standard was developed with cleanliness test methods, it is already quite possible to be used for cleanliness standards. The standard must be complete, accurate, and conform to relevant national standards. The cleanliness standard for hydraulic cylinders is also required by relevant standards. The test method for cleanliness is also derived from JB/T 7858-2006, but the problem is relatively large. Details are as follows."
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) Test methods for hydraulic cylinder performance"
+        },
+        {
+          "type": "paragraph",
+          "text": "Standard CB/T 3812-2013 compared with the other two standards (GB/T 15622-2005 and JB/T 10205-2010), in the hydraulic cylinder performance test method uses the most stable speed and displacement methods."
+        },
+        {
+          "type": "paragraph",
+          "text": "749"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are 4 test items, lacking stroke inspection. Among these, the stroke inspection items are only in the type test for progress; the stroke is the basic parameter of the hydraulic cylinder. In CB/T 3812-2013, the specified product standard also performs this test. This standard requires no separate execution; it also checks for leakage."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "\"Load efficiency\" technical requirements and test method: in this standard and other standards, it is found in CB/T 3812-2013 that the test is for the installed hydraulic cylinder's piston rod, and the test should measure the hydraulic cylinder's working pressure drop, notarization (2), (3). The two standards of the three standards contain this item, but lack \"maintaining the hydraulic cylinder at a stable speed\" or \"the hydraulic cylinder speed being maintained at constant speed\", i.e., whether it can be maintained at a steady state. For this, CB/T 3812-2013 identifies the \"load efficiency\" test method as not yet fully established.",
+            "In addition, the calculation formula given is (2): η = W/(F × 100). The force is σ = W/F × 100."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "3) The technical requirements for buffering and test method: in GB/T 13342-2007, there is no provision, while in the other three standards, there are, and in CB/T 3812-2013, the \"buffering effect\" test method is listed. The hydraulic cylinder's rated pressure is taken as 50% of the hydraulic cylinder rated pressure for the highest speed test to conduct the test, observing the buffer operation condition, and in GB/T 15622-2005, the \"buffer test\" for testing the hydraulic cylinder's buffer performance at the buffer turning point adjustment, the test condition is the hydraulic cylinder pressure at 50% of the rated pressure. The designed highest speed test, to verify the operation under these conditions, the buffer and its related closing moments of the buffer characteristic. This is a universal item and not applicable to all situations."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, when the conditions are not met, it cannot be verified, and this \"observing the buffer operation condition\" is not precise enough to determine whether the buffering effect meets the requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "In CB/T 3812-2013, the term \"starting\" test. The test method has some differences from the other three standards. For hydraulic cylinder pressure, continuous operation test reciprocating for 5000 times, required not to replace the seal ring (including the piston rod seal); no internal leakage: additionally, the time to complete the continuous operation test simultaneously allows the hydraulic cylinder to withstand oil temperature of 50°C ± 2°C. The oil temperature must not be too high or too low; when the normal temperature range for direct reconnection into the test, the reconnection should not exceed 5000 times. Each continuous operation test time should not be less than 6h."
+        },
+        {
+          "type": "paragraph",
+          "text": "The continuous operation test reciprocating stroke count and other data represent two types. Additionally, if there is a problem with the hydraulic cylinder's reciprocating operation time, its inspection may also have some deficiencies. Also, the standard's continuous operation time may also have a certain level of ambiguity."
+        },
+        {
+          "type": "paragraph",
+          "text": "5) In CB/T 3812-2013, the term given is \"inspection\" such as \"test completed, inspection of appearance...\" leading to external standards, etc. CB/T 17446-2012 uses the term \"acceptance\" for the defined terminology and standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Other items such as the three-item comparison with operation, load, oil pressure, horizontal safety, etc."
+        }
+      ]
+    },
+    "801": {
+      "page_type": "text",
+      "page_header": "Hydraulic Cylinder Handbook",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "790"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Manufacturing. Equipment that has undergone all environmental vibration processes during manufacturing and acceptance. It is assumed that the tests to be conducted for environmental testing are those where the test items and the products to be delivered are in the manufacturing and acceptance process, and the same types of damage as those counted in the delivery period for the environmental test may prove or confirm that the product's external appearance has changed. If the vibration process undergoes sudden changes, it becomes a vibration with a relatively large vibration magnitude; it should be evaluated. For example, the original machine may produce the same type of batch assembly. The assembled products are in one-time batch classification testing. This type of vibration environment is quite possible to be transferred to one location for collective processing, accelerating processing to a very high degree of severity."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Environmental stress screening (ESS). Many equipment are delivered at the factory, sometimes needing repair and maintenance during service. Environmental stress screening, with the basic production process of one type, is established for environmental testing. This type of environmental testing is effective for screening external equipment. For situations where repeated environmental stress testing is required (such as multiple environmental stress screenings), the maximum allowable environmental stress applied should be set. As the environmental test equipment (see GJB 150.16A-2009 Appendix A.2.1.4 and B.2.1.9)."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(3) Limitations"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Safety testing. For items with safety characteristics (such as after entering service), this method can be used as a designated safety test equipment. It can also provide specific safety test equipment vibration control and monitoring capabilities.",
+            "Platform/equipment coupling effect. In this test method, the commonly used input for vibration requirements is the equipment's integration into the vibration fixture (platform, vibration table, etc.), which is treated as one entity. Since the pipeline between these two is idealized and non-rigid, for control point inputs the test equipment can still be accepted; however, for large equipment, it is necessary to consider the equipment and the damping isolator vibration system as a combination to be considered as a single flexible system, using a simplified single degree of freedom effectiveness model (see GJB 150.16A-2009 Appendix B.2.4). For closed equipment, the correct test and experimental method is determined based on the results, and the platform and equipment and actual vibration laboratory test are used to confirm the method. The test laboratory approach should adopt force limit methods or acceleration limit methods to prevent the occurrence of unrealistically strong vibration excursions (see GJB 150.16A-2009, Section 6.2). This approach for the reliability of measured data from the test and actual conditions may not be usable with the test method for protective boundaries.",
+            "Sensitive equipment that may use force limits to add acceleration limit controls. In addition, if the response measurement data at the external field can be used based on real data, and the vibration duration is long, it can be extrapolated to external field measurement levels and based on indoor laboratory-controlled vibration tests."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Manufacturing and maintenance. In the factory, during the machining process and during maintenance and repair, the vibration experienced by the equipment is not covered by this method. Relevant transportation and operational environmental guidance applies."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Environmental stress screening (ESS). This method does not include environmental stress screening guidance. In GJB 150.16A-2009, Appendix"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A.2.1.4, a discussion has been conducted."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2. Tailoring Guidelines"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(1) Selection of Test Methods"
+        },
+        {
+          "type": "paragraph",
+          "text": "All technical document requirements must be followed. Tailored equipment (products) should be procured and implemented according to GJB 4239-2001 (equipment environmental engineering application requirements) to determine the equipment service life (period), when vibration environments are reached at certain stages. Based on whether the environmental response is needed, determine whether this test is needed. Confirmation requires that the test items in this test are related to other test environments during a certain test period, and environmental determination for this test and other related tests should also be carried out."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(2) Selection of Test Procedures"
+        },
+        {
+          "type": "paragraph",
+          "text": "Selection. The test method reference table is Table 5-34 for selecting vibration test procedures, and from GJB 150.16A-2009 Appendix A, determine the test severity level and duration of exposure, and select the applicable test requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) \"Test\" severity level confirmation characteristics: Vibration test condition requirements should be set at those locations where environmental conditions can be determined within the specified limits. Therefore, the domestic standard should include the confirmed product's maximum value. The three components consisting of force in the orthogonal upper, left and right three axes respectively for applied vibration force's unevenness should not lead to a reduction in weight and volume, nor should consideration be given to the fact that this can increase the life and endurance of the equipment."
+        },
+        {
+          "type": "paragraph",
+          "text": "(b) Measurement data protection: The protection may be possible to use specified equipment measurement data as the basis for vibration conditions, arising from the acceptance of vibration and verification data. The measurement data is possible and may be established from a specification that is not available. In addition, the test may not achieve the full conditions of limitations. Additionally, the limitations of auxiliary equipment types in vibration testing, using test fixtures with idealized support, and using simplified measurement data to determine conditions, with the addition of representative aging conditions, need to be considered. If there is sufficient measurement data, it is recommended to use GJB 150.18A-2009 for the calculation."
+        },
+        {
+          "type": "paragraph",
+          "text": "(c) Estimated values for calculations: If there is no method to obtain measurement data, it can be obtained from GJB 150.16A-2009 Appendix A and Appendix D for the category conditions values. GJB 150.16A-2009 Appendix A provides data containing multiple categories of information. If there are no conditions for any values, it should not be directly added to each condition. Therefore, it is not recommended to superimpose them directly."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Vibration effects. Vibration guidance data and its internal responses for the equipment: these include dynamic displacement and relative displacement speed, as well as acceleration, which may cause added stress damage, fatigue, wear and tear, component loosening, structural failure simulation, and dynamic displacement also affects the response of vibration-sensitive components (the resilience/function capability).",
+            "Regarding the vibration problem to be addressed, the following is a typical environmental condition:"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(a) Guided Missiles"
+        },
+        {
+          "type": "paragraph",
+          "text": "Example categories/component inspection: short-circuit electrical connection, power supply."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Electrical short circuits."
+          ]
+        }
+      ]
+    },
+    "809": {
+      "page_type": "text",
+      "page_header": "Hydraulic Cylinder Handbook",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "798"
+        },
+        {
+          "type": "paragraph",
+          "text": "(operating state) shock environment with a predicted period, to determine the use of test equipment or the structural integrity of the box. This procedure also validates the integrity of the equipment or box structure. If during shock testing the equipment's various components fail to meet specified requirements, this procedure is not applicable for cargo transportation equipment. These equipment should comply with GJB 150.15A-2009 or GJB 150.16A-2009."
+        },
+        {
+          "type": "paragraph",
+          "text": "The combination of procedures and the order of procedures. When selecting test procedures, the following content should be considered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "a) Equipment use: Based on technical document requirements, determine the equipment during the shock period and after shock operation function or capability."
+        },
+        {
+          "type": "paragraph",
+          "text": "b) Experienced environment. Procedure I - Procedure III refers to the equipment being subjected to the reciprocating motion of the support structure with other objects, or a change in amplitude guide resulting in a single or repetitive shock. In the procedure, the shock wave form may contain two components of the shock wave grouped in sequence. These two shocks are from one sustained and one relatively short-duration shock and vibration (such as decaying oscillation). Separately: Procedure III has a characteristic that allows one to see that one single shock followed by a damped oscillatory vibration is possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "c) Data requirements: Record test environment data and refer to the test equipment installation data and the equipment's post-test characteristic testing data."
+        },
+        {
+          "type": "paragraph",
+          "text": "d) Test sequence: Refer to Section 2.(1)(3)."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3) Categories of Procedures"
+        },
+        {
+          "type": "paragraph",
+          "text": "General procedure classification: generally follows the test procedures listed below."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure I — Functional shock. Used to evaluate the working state of the equipment (including machine tools, electrical, air pressure, hydraulic, and electrical) subjected to shock testing, to assess the equipment's shock resistance performance and function consistency. It is generally required that the equipment be in working condition during the shock application period and to be able to identify those nearby functional areas that may not be damaged by shock."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure II — Packaged equipment, specifically freight-packaged equipment. It verifies that the minimum outer edge of the shock capacity is set at the level to which the packaging reduces it. Due to the packaging equipment not being designed for evaluation, the precise calibration level value is not required to be met by the packaging equipment, and the tail end impact damping platform, etc., in the testing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure III — Fragility. Used to determine the fragility of the equipment as a guide, an approach for the design of new equipment to provide specifications. The procedure is used to confirm the equipment's temporary shock conditions. In the test, when the shock conditions on the equipment's structural strength are not sufficient to meet requirements, it is desired to achieve better actual level capability. The procedure should be used at an appropriate level of environmental temperature."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure IV — Transit drop. Used to determine whether the equipment can withstand the shock typically experienced by properly operated equipment during handling and transportation or when supplied externally for use (as in the case of forklifts, trucks, trains, and similar transportation vehicles). These shocks are naturally occurring in function, and the procedure is applied for the purpose of verifying warning signs with a steady determination. In the transit environment, the shock encountered by the packaged goods, on the packaging equipment's service life cycle during each phase of the intermediate shock (see Procedure II — Packaged equipment)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure V — Crash safety. Used for equipment installed in the air and on ground transportation vehicles. In a crash, the equipment can be released from the assembly structure to avoid damage. The system fixture or box structure is above the floor level, for human safety. This procedure is intended to simulate the crash condition's forced impact, the installation fixtures of the equipment, and the system's installation hardware. The system"
+        },
+        {
+          "type": "paragraph",
+          "text": "fixture or box structure integrity. This procedure also validates the integrity of the equipment or box structure. For example, if during shock testing, the equipment's components all fail to meet requirements, this procedure is not applicable for cargo transportation equipment. These equipment should comply with GJB 150.15A-2009 or GJB 150.16A-2009."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure VI — Bench handling. Used when needed in the work process on the equipment's work table, maintenance and protection of packaged equipment, to determine whether the equipment is for the typical work table operation, maintenance, packaging, including the traditional work table for the operation, maintenance, unpacking, and this type of shock may be the equipment during the repair and transfer through the encountered situation. This type of shock may occur at the equipment's internal component testing. The procedure should focus on the equipment's each component of the various parts' structural and related component characteristics, and the application of components. It should be noted that this procedure applies from the equipment of the farthest edge of approximately 23cm during transportation and transfer. For equipment in this situation, generally Procedure V — Transit drop is used at a greater height for testing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure VII — Railway collision. Used for the equipment transported by rail. This procedure is used to verify the railway or similar road and railway impact characteristics. The structural results evaluation, assessing the track line system and related areas of the shock characteristics, determine whether it can be used. If the equipment's transport result is maximum total weight plus load (full weight), this procedure is not applicable for small items, single lightweight packages, and equipment installed in a larger piece of equipment as a part of the transport (or testing). The equipment is tested."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedure VIII — Ballistic shock and blast-related shock. Used for equipment that is subjected to ballistic impact and blast-related shock from nearby explosions during flight. For ballistic impact, the equipment should first be subjected to one initial shock, and then the shock response of the equipment is specified at a certain duration with the lowest magnitude decaying oscillation. The dynamic/frequency range of the equipment under shock and at peak values is the relevant identification area. The equipment's connections' response to the shock at peak values for duration, the ballistic-related procedure's ballistic shock is for one shock. For blast-related shock, the equipment is after receiving one initial shock, followed by a subsequent set of one-direction forced sustained peak magnitude decaying oscillation. This moving frequency/amplitude is the lowest magnitude of the decaying oscillation, with a difference of one half, and the equipment also needs to achieve sustained operation capability."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4) Determination of Test Conditions"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) Overview. This test and procedural description, using the relevant documents provided for the description method to determine the test materials required and conditions, and should verify the applicable conditions for each of the 2.(3)(2)-2.(3)(4) items."
+        },
+        {
+          "type": "paragraph",
+          "text": "(b) General. Where there is a shock environment, or a shock description is taken as a method for the excitation provided by the relevant document. The conditions described for the shock response spectrum shall comply with GJB 150.18A-2009, Appendix A. The shock time-domain response to the time-equivalent response: the shock can be described in two ways by spectrum. The recommended method uses an effective sustained time duration: the shock time-domain and frequency-domain equivalent description, the recommended method is to use impact force and similar methods. Additionally, the shock response to the frequency and numerical values, the recommended method is to describe the shock response as the impact method. The maximum"
+        },
+        {
+          "type": "paragraph",
+          "text": "acceleration enhancement of the shock response spectrum serves as the description method. This is the largest."
+        }
+      ]
+    }
+  }
+}

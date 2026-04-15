@@ -1,0 +1,279 @@
+{
+  "results": {
+    "518": {
+      "page_type": "text",
+      "page_header": "Chapter 3  Manufacturing of Hydraulic Cylinders  507",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "friction between the movable sealing device and the mating (cylinder) surface, including the friction between the piston and guide sleeve, piston ring and cylinder bore, as well as metal friction caused by the deviation of the piston and guide sleeve, resulting in friction resistance, causing a decrease in the output force efficiency of the hydraulic cylinder, causing the hydraulic oil temperature to rise and accelerated wear of the sealing components. In addition, if the clearance ring (bonded seal) acts as a guide for the support ring, and other seal components act on the hydraulic cylinder during reciprocating motion, the midpoint wear also increases the metallic friction."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "7. Design Considerations for Hydraulic Cylinder Sealing Based on Operational Performance"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Do not select or design hydraulic cylinders with vibration, chattering, or malfunctioning hydraulic cylinder sealing devices or systems.",
+            "Do not select or design hydraulic cylinder sealing devices or systems that are insufficient in supporting and guiding force. When the piston rod extends over a long stroke to operate the hydraulic cylinder, the load produces impact dynamic loads, and the hydraulic cylinder sealing gasket may deform or lose stability. If the hydraulic cylinder sealing and piston rod support and guide force and rigidity are insufficient, the seal may shift and deform, leading to possible seal failure.",
+            "If the hydraulic cylinder sealing and piston rod support force and rigidity are insufficient, there may also be increased hydraulic cylinder deflection, causing seal component partial wear. All these situations may cause varying degrees of increased hydraulic cylinder load friction.",
+            "Do not select or design hydraulic cylinder output forces (negative efficiency) that do not meet standard requirements for the hydraulic cylinder sealing device configuration.",
+            "Do not select or design hydraulic cylinder (minimum) starting pressure forces that do not meet standard requirements for the hydraulic cylinder sealing device or system. Do not select sealing devices or systems that do not meet the special requirements for starting the hydraulic cylinder. Even if the standard requires the use of V-type seals on the hydraulic cylinder for standard applications, when the design involves a combined V-type seal device or system, the estimated (minimum) starting pressure force should be verified for whether the seal design is 'adequate' to ensure reliable and correct sealing.",
+            "Do not select or design hydraulic cylinder sealing devices or systems that have rapid response and piston rod movement causing large hydraulic cylinder dynamic friction forces that are relatively too high, resulting in the guiding effect on the hydraulic cylinder (minimum) starting pressure being too slow. When the hydraulic cylinder starts instantly (momentarily), this kind of situation may cause the cylinder to malfunction. The material suitable for the sealing material should include support and lower friction.",
+            "Problems found during seal use, and possible moisture and water immersion issues.",
+            "The working environment temperature of the hydraulic cylinder exceeds the permitted operating temperature of the seal components.",
+            "The sealing system design, installation, and safety protection, with appearance of friction wear. The seal components include support ring and other components themselves have wear.",
+            "The seal groove design is not proper.",
+            "Mating component surface roughness does not match or has excessive clearance. Mating component surface roughness degree and surface hardness are not consistent.",
+            "Other factors such as hydraulic cylinder structure and design, cushioning device design, adjustment of clearances, piston ring and other component wear, etc. In general, all situations that can cause seal component damage."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not select or design hydraulic cylinder sealing devices or systems that do not meet standard requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "JB/T 10205—2010 (Hydraulic Cylinder) standard requires that the technical requirement of one item for quality is 'ensuring that after installation it can guarantee the hydraulic cylinder's motion characteristics (dynamic response indicators are further specified). For example, if the servo hydraulic cylinder's dynamic response indicators include frequency response, amplitude ratio, etc., refer to DB44/T 1169.1, and the servo hydraulic cylinder Part 1 technical conditions. Therefore, the requirements for 'minimum starting pressure' are given as values that are not just for ensuring that the liquid medium's flow performance is smooth when it first flows in. It is also necessary to verify whether the hydraulic cylinder sealing system or configuration meets related standard requirements."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "3.9.5  Design Considerations for Hydraulic Cylinder Cushioning Devices"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hydraulic cylinder cushioning with cushioning devices means that when the motion body approaches the end of its stroke, it is decelerated through a fixed or adjustable method to reduce the impact and noise generated by sudden stops. There are two types:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Design considerations for fixed hydraulic cylinder cushioning devices include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Prohibit excessive cushioning. The cushioning function should be able to set a shorter cylinder stroke length (also called cushioning stroke) to absorb the maximum kinetic energy of the cylinder."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The load friction force directly reduces the output force of the hydraulic cylinder. According to the definition and calculation formula of the output efficiency, if the test shows the hydraulic cylinder at a certain pressure P₁ maintains the reciprocating motion state to detect the actual output, the formula P₁ = W + F₁ + F₂ is established, where P₁A is the theoretical output of the hydraulic cylinder, W is the actual output of the cylinder, F₁ is the friction force generated by the seal, F₂ is the resistance generated by other factors."
+        },
+        {
+          "type": "paragraph",
+          "text": "According to JB/T 10205—2010 (Hydraulic Cylinder), the output efficiency is η = W/(P₁A) × 100% ≥ 90%. If the result is the output efficiency that cannot pass the test, the friction resistance generated by the seal is also included."
+        },
+        {
+          "type": "paragraph",
+          "text": "Causes of hydraulic cylinder vibration, chattering, or malfunction are numerous, and the factory test qualification of the hydraulic cylinder may still exhibit the above-described situations during actual use, but the seal system 'adequate design' and the over-tight assembly of the seal ring, as well as the original design concept of the possibility of producing such situations."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "In the reciprocating motion seal system, do not select or design the static friction force to be much larger than the dynamic friction force for the sealing device or system. Driving the hydraulic cylinder (minimum) starting pressure forces being too large may cause the hydraulic cylinder to start with a momentary (instantaneous) impact. This kind of situation involving the seal material should include support and lower friction materials."
+          ]
+        }
+      ]
+    },
+    "519": {
+      "page_type": "mixed",
+      "page_header": "508  Hydraulic Cylinder Handbook",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "is to convert the kinetic energy of the moving parts (including all connecting parts or related components) entirely into heat energy."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "During the cushioning process, it is prohibited to produce excessively high pressure pulses and excessively high cushioning cavity pressure peaks, so that the change in pressure force becomes a gradual transition process.",
+            "It is prohibited to have the cushioning cavity (cylinder head end) cushion pressure peak value greater than 1.5 times the nominal pressure of the hydraulic cylinder.",
+            "For rod-end cushioning (installation), it is prohibited to use (only) cushioning force applied on the piston rod seals (system), etc.",
+            "It is prohibited to cause excessive temperature rise, converting kinetic energy into heat energy may cause the hydraulic oil temperature to rise. The maximum oil temperature must not exceed the maximum allowable temperature of the sealing material.",
+            "It is prohibited to install excessive numbers of cushioning devices. JB/T 10205—2010 (Hydraulic Cylinder) stipulates: 'The hydraulic cylinder's cushioning capability must meet the requirements of the user and manufacturer's agreement.' For hydraulic cylinders that do not require cushioning devices, it is not necessary to design them into the hydraulic cylinder; only the commonly used hydraulic cylinder cushioning device cannot completely replace all driving functions, and other measures such as braking, speed control, should be adopted, for example, designing control circuits in the hydraulic system.",
+            "It is prohibited in cushioning design to affect the starting function of the hydraulic cylinder. The throttle return flow cylinder pressure ratio needs to be controlled so as to prevent the cushioning area from causing starting difficulties (abnormal vibration), abnormal noise, and other similar problems."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "It is prohibited to design the throttle valve cushioning set with a single unit functioning as both flow rate control. If the designed single throttle opening is too small, it may cause sudden stop or slow down phenomena during the hydraulic cylinder startup."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to reference document [110] for the first column — when the hydraulic cylinder movement speed is fast and the stroke terminates with a sudden stop, it produces a large impact and noise, causing hydraulic cylinder seal deterioration, resulting in damage to parts such as bolts, flanges, and other mechanical components; as shown in Figure 3-15a. Due to load, the hydraulic cylinder sealing and piston rod and their components' own mass and inertia, when the stroke suddenly stops at the end point, it produces a large impact and noise, causing damage to the hydraulic system, and can be eliminated through this approach: by adding corresponding components in the hydraulic circuit to control the hydraulic cylinder deceleration process, quickly achieving the hydraulic cylinder deceleration cushioning function. Fixed or adjustable hydraulic cylinder cushioning devices can be used, as shown in Figure 3-15b."
+        },
+        {
+          "type": "paragraph",
+          "text": "The above problem is: if the hydraulic cylinder can be decelerated during operation, the speed is reduced. Then the problem of the hydraulic cylinder reaching the end of stroke with high-speed kinetic energy impact and noise can be fundamentally resolved. The hydraulic cylinder itself may not need a cushioning device. Refer to reference document [110] for examples illustrating that this is not the only way to place the cushioning design on the hydraulic cylinder, but rather to design the cushioning in the hydraulic system."
+        },
+        {
+          "type": "figure",
+          "caption": "Figure 3-15  Very large impact and noise when the hydraulic cylinder stroke suddenly stops at the end point (redrawn based on original figure, with corrections)",
+          "description": "Two diagrams labeled a) and b) showing hydraulic cylinder configurations. Diagram a) shows a basic hydraulic cylinder setup. Diagram b) shows an improved configuration with additional cushioning components."
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure 3-16 shows an example of a throttle valve cushioning circuit provided by the author in the book 'Hydraulic Circuit Analysis and Design' for reference."
+        },
+        {
+          "type": "figure",
+          "caption": "Figure 3-16  Throttle Valve Cushioning Circuit",
+          "description": "A hydraulic circuit diagram showing a throttle valve cushioning system with numbered components: 1—Flow valve, 2—Two-position four-way solenoid directional valve, 3, 9—Two-position two-way solenoid directional valve, 4, 5, 7, 8—One-way throttle valve, 6—Hydraulic cylinder."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Figure 3-16, when the two-position four-way solenoid directional valve 2 is in the left position, the hydraulic oil supplied by flow valve 1 passes through the two-position four-way solenoid directional valve 2, the two-position two-way solenoid directional valve 3, the one-way throttle valve 4, and enters the rod chamber of hydraulic cylinder 5 via the one-way valve input to make the hydraulic cylinder 6 extend its rod. The piston rod of the hydraulic cylinder passes oil through the one-way throttle valve 7 to the left side, and through the throttle valve, the two-position two-way solenoid directional valve 9, and through the throttle valve 7, the hydraulic cylinder oil enters through the two-position four-way solenoid directional valve 2 to the oil tank. The hydraulic cylinder performs high-speed advance. The process reaches a certain position, the two-position two-way solenoid directional valve switch (as shown in the figure, not labeled) is actuated, the two-position two-way solenoid directional valve switches to the closed position, directing the return oil through 8 oil passages, during which the hydraulic cylinder oil enters through the one-way throttle valve 7 to the throttle valve 7 for deceleration. In this way, the hydraulic cylinder achieves two-stage deceleration and the hydraulic cylinder enters the cushioning stroke."
+        },
+        {
+          "type": "paragraph",
+          "text": "Similarly, the retraction circuit can also achieve deceleration. From the throttle valve (also called the speed control valve in the advancing circuit), if there is a bleeder air (vacuum) connection in the circuit, it can be resolved. For example, the throttle valve 7 and the throttle valve 8 have adjustable settings, which can reduce the hydraulic cylinder deceleration speed to the minimum, achieving the purpose of cushioning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to reference document [99] for the cushioning mechanism used by the general hydraulic cylinder. Generally speaking, for ordinary hydraulic cylinders with working pressure greater than 10MPa and piston speed greater than 0.1m/s, the corresponding hydraulic cushioning device or other cushioning methods should be used. This is just one condition, and the main consideration should be the specific circumstances."
+        }
+      ]
+    },
+    "530": {
+      "page_type": "mixed",
+      "page_header": "Chapter 4  Hydraulic Cylinder Design and Selection for Hydraulic Machinery  519",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "(4) Environmental protection and comfort requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Environmental protection and comfort requirements for loaders shall comply with GB/T 35199—2017."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3. Test Methods, Inspection Rules, Marking, Packaging, Transportation and Storage"
+        },
+        {
+          "type": "paragraph",
+          "text": "Test methods, inspection rules, marking, packaging, transportation and storage for loaders shall comply with GB/T 35199—2017."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "4.1.5  Motor Grader"
+        },
+        {
+          "type": "paragraph",
+          "text": "The motor grader referred to in this section is a self-propelled wheeled machine. Between its front and rear axles there is an adjustable blade, and the motor grader can be equipped with one or more accessories mounted in front of the blade (push plate) or on the earth, and the blade is installed between the front and rear axles. It is compiled according to GB/T 14782—2010 (Motor Grader) which specifies the self-propelled wheeled motor grader's terminology and definitions, classification, requirements, test methods, inspection rules, marking, packaging, transportation and storage. It is applicable to grader bodies or grader frames with articulated frame type motor graders."
+        },
+        {
+          "type": "note",
+          "text": "Note: The motor grader mainly performs grading, moving forward and backward to carry out leveling of materials, ditching, and scarifying."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1. Classification"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motor graders are classified by frame type into integral frame type and articulated frame type; by transmission type into mechanical transmission, hydraulic transmission, and hydrostatic transmission; by drive type into rear-wheel drive and all-wheel drive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Motor grader model numbering method is according to JB/T 9725—2014 (Construction Machinery Product Model Numbering Method) regulations."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2. Requirements (related to hydraulic cylinder content)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) General requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motor graders shall comply with GB/T 14782—2010 standards, and shall be manufactured according to approved product drawings and technical documents. Raw materials, outsourced parts, and externally sourced parts shall have quality supply certificates and shall be qualified by factory sampling inspection. Manufacturing processes shall be qualified for acceptance."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Welding shall comply with JB/T 5943—2018 (Engineering Machinery Welding Technical Conditions) regulations.",
+            "Exterior paint coating shall comply with JB/T 5946—2018 (Engineering Machinery Paint Coating Technical Conditions) regulations."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) Performance requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motor grader main performance requirements shall comply with Table 4-6 requirements."
+        },
+        {
+          "type": "table",
+          "caption": "Table 4-6  Motor Grader Main Performance Requirements",
+          "headers": ["Serial No.", "Item", "Performance Requirements", "Remarks"],
+          "rows": [
+            ["1", "Blade lifting speed / (m/s)", "Rise: ≥100", ""],
+            ["", "", "Fall: ≥120", ""],
+            ["2", "Blade lateral displacement speed", "≥90", ""],
+            ["", "/ (mm/s)", "", ""],
+            ["3", "Blade hydraulic cylinder sinking amount / (mm/30min)", "≤8", ""],
+            ["", "Hydraulic system stationary body", "Piston pump system", "≤1/15", "1) Test after 2h warm-up operation"],
+            ["", "Leakage and other", "Gear pump system", "≤1/19/16", "2) Contamination grade compliant with GB/T 14039 regulations"],
+            ["4", "Overall sealing (10min)", "", "No leakage"],
+            ["", "", "Working reliability (availability)", "≥85%", ""],
+            ["5", "Overall reliability", "Mean time between failures / (Mean failure interval time) / h", "", ""],
+            ["", "", "Mean time to first failure / h", "", ""],
+            ["", "", "(Mean time to first failure as mean working time) / h", "", ""]
+          ]
+        },
+        {
+          "type": "note",
+          "text": "Note: In GB/T 7920.9—2003, some parts include the blade angle adjustment hydraulic cylinder, blade edge hydraulic cylinder, rotary side-tilt hydraulic cylinder, wheel camber hydraulic cylinder, steering hydraulic cylinder, etc."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Hydraulic system shall comply with GB/T 3766 regulations. Hydraulic components shall comply with GB/T 7935 regulations. Hydraulic oil maximum temperature and maximum temperature rise shall be within the range of normal working conditions permitted for the motor grader.",
+            "Motor grader shall operate smoothly without abnormal noise.",
+            "Motor grader shall function normally in ambient temperatures of -25 to 40°C at full power operation.",
+            "Motor grader reliability requirements: availability, mean failure-free interval time"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "time and mean time to first failure average working time are shown in Table 4-6 requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) Safety, environmental protection and comfort requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motor grader safety, environmental protection and comfort requirements shall comply with GB/T 14782—2010."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3. Test Methods, Inspection Rules, Marking, Packaging, Transportation and Storage"
+        },
+        {
+          "type": "paragraph",
+          "text": "Motor grader test methods, inspection rules, marking, packaging, transportation and storage shall comply with GB/T 14782—2010."
+        }
+      ]
+    }
+  }
+}

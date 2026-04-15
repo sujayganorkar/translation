@@ -1,0 +1,9647 @@
+{
+  "9": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "406.",
+          "409.",
+          "410.",
+          "414.",
+          "416.",
+          "418.",
+          "423.",
+          "427.",
+          "429.",
+          "436."
+        ]
+      }
+    ]
+  },
+  "10": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1169.2",
+          "4.2",
+          "4.3",
+          "4.4",
+          "4.5",
+          "4.6",
+          "4.7",
+          "4.8",
+          "4.9",
+          "5.1"
+        ]
+      }
+    ]
+  },
+  "11": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "774.",
+          "779.",
+          "784.",
+          "788.",
+          "796.",
+          "805.",
+          "807.",
+          "812.",
+          "814.",
+          "816."
+        ]
+      }
+    ]
+  },
+  "14": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "1169.1",
+          "1169.2",
+          "4181"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "11691.1",
+          "11691.2",
+          "291.2"
+        ]
+      }
+    ]
+  },
+  "17": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 10,
+        "examples": [
+          "11118.1",
+          "1177",
+          "1241",
+          "380.2",
+          "380.4",
+          "380.5",
+          "380.7",
+          "380.8",
+          "420",
+          "4673"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "8.1",
+          "80.2",
+          "80.4",
+          "80.5",
+          "80.7",
+          "80.8"
+        ]
+      }
+    ]
+  },
+  "18": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 8,
+        "examples": [
+          "0570",
+          "0599",
+          "2688.2",
+          "2688.3",
+          "2724",
+          "29104",
+          "7247.1",
+          "76"
+        ]
+      }
+    ]
+  },
+  "19": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "3033.1",
+          "3033.2",
+          "3836.1"
+        ]
+      }
+    ]
+  },
+  "21": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 10,
+        "examples": [
+          "150.1",
+          "150.10",
+          "150.11",
+          "150.15",
+          "150.16",
+          "150.18",
+          "150.23",
+          "150.3",
+          "150.4",
+          "150.9"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1146.1",
+          "1146.11",
+          "1146.12",
+          "1146.2",
+          "1146.3",
+          "1146.4",
+          "1146.6",
+          "1146.8",
+          "1146.9",
+          "1500.1"
+        ]
+      }
+    ]
+  },
+  "22": {
+    "severity": 1,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "418.2",
+          "47013.3",
+          "47013.4"
+        ]
+      }
+    ]
+  },
+  "23": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 30,
+        "examples": [
+          "1000",
+          "125",
+          "1250",
+          "140",
+          "160",
+          "1600",
+          "180",
+          "200",
+          "22",
+          "220"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.25",
+          "1.6",
+          "12.5",
+          "12.5125",
+          "2.1",
+          "2.5",
+          "3.15",
+          "31.5",
+          "6.3"
+        ]
+      }
+    ]
+  },
+  "24": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 25,
+        "examples": [
+          "0.25",
+          "0.63",
+          "0.75",
+          "106",
+          "112",
+          "128",
+          "2200",
+          "2400",
+          "2600",
+          "2800"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.254",
+          "0.35",
+          "0.5",
+          "0.636",
+          "0.7",
+          "1.25",
+          "1.5",
+          "1.6",
+          "2.5",
+          "2.56"
+        ]
+      }
+    ]
+  },
+  "26": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 48,
+        "examples": [
+          "-1000",
+          "-1100",
+          "-1250",
+          "-1400",
+          "-1700",
+          "-1800",
+          "-2200",
+          "-2500",
+          "-2650",
+          "-30"
+        ]
+      }
+    ]
+  },
+  "27": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-28.",
+          "-29.",
+          "0.2",
+          "0.5",
+          "1.0",
+          "1.5",
+          "100.53",
+          "108.24",
+          "113.10",
+          "157.08"
+        ]
+      }
+    ]
+  },
+  "28": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2597.4",
+          "3836.1",
+          "4701.3"
+        ]
+      }
+    ]
+  },
+  "29": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "150.16",
+          "150.18",
+          "150.23",
+          "31.5"
+        ]
+      }
+    ]
+  },
+  "30": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "1169.1",
+          "2350",
+          "2880",
+          "29104",
+          "460",
+          "484",
+          "625"
+        ]
+      }
+    ]
+  },
+  "31": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "1146.12",
+          "1146.8",
+          "1146.9"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "146.12",
+          "146.8",
+          "146.9",
+          "47013.3"
+        ]
+      }
+    ]
+  },
+  "34": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 4,
+        "examples": [
+          "2.11",
+          "2.12",
+          "2.14",
+          "2350"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-32.",
+          "2.1",
+          "2.3",
+          "3.1",
+          "3.2",
+          "3.3",
+          "3.4",
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      }
+    ]
+  },
+  "35": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "3.1",
+          "3.2",
+          "3.3",
+          "3.4",
+          "3.5",
+          "3.6"
+        ]
+      }
+    ]
+  },
+  "36": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 29,
+        "examples": [
+          "100",
+          "108",
+          "110",
+          "111",
+          "113",
+          "118",
+          "124",
+          "127",
+          "128",
+          "3.2"
+        ]
+      }
+    ]
+  },
+  "37": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 41,
+        "examples": [
+          "129",
+          "130",
+          "134",
+          "135",
+          "136",
+          "137",
+          "147",
+          "148",
+          "149",
+          "151"
+        ]
+      }
+    ]
+  },
+  "38": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 36,
+        "examples": [
+          "182",
+          "183",
+          "184",
+          "185",
+          "186",
+          "187",
+          "195",
+          "198",
+          "201",
+          "202"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "18.2",
+          "18.3",
+          "18.4",
+          "18.5",
+          "18.6",
+          "18.7",
+          "19.5",
+          "19.8",
+          "20.1",
+          "20.2"
+        ]
+      }
+    ]
+  },
+  "39": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 38,
+        "examples": [
+          "0.5",
+          "276",
+          "283",
+          "291",
+          "292",
+          "299",
+          "305",
+          "308",
+          "313",
+          "315"
+        ]
+      }
+    ]
+  },
+  "40": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 33,
+        "examples": [
+          "3.2",
+          "404",
+          "409",
+          "415",
+          "422",
+          "428",
+          "429",
+          "436",
+          "437",
+          "447"
+        ]
+      }
+    ]
+  },
+  "41": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 35,
+        "examples": [
+          "3.2",
+          "530",
+          "532",
+          "536",
+          "537",
+          "539",
+          "541",
+          "550",
+          "556",
+          "559"
+        ]
+      }
+    ]
+  },
+  "42": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "2.",
+          "3.1",
+          "3.2",
+          "3.3"
+        ]
+      }
+    ]
+  },
+  "43": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "25974.1",
+          "25974.2",
+          "28241"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.11",
+          "2.12",
+          "2.14",
+          "2.15",
+          "2.17",
+          "2.18",
+          "2.19",
+          "2.20",
+          "2.21",
+          "2.22"
+        ]
+      }
+    ]
+  },
+  "44": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "2.10",
+          "2.12",
+          "2.13",
+          "2.14",
+          "2.15",
+          "2.16",
+          "2.27",
+          "2.3",
+          "2.30"
+        ]
+      }
+    ]
+  },
+  "45": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "-01",
+          "-02",
+          "-04",
+          "-06",
+          "-07",
+          "-12",
+          "2.17"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "3.1",
+          "3.2",
+          "3.3",
+          "3.4",
+          "3.5",
+          "3.6",
+          "3.7",
+          "4.3"
+        ]
+      }
+    ]
+  },
+  "46": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "3.8",
+          "5.1",
+          "5.3",
+          "5.8"
+        ]
+      }
+    ]
+  },
+  "47": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 14,
+        "examples": [
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "5.1"
+        ]
+      }
+    ]
+  },
+  "48": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 29,
+        "examples": [
+          "10.2",
+          "2.0",
+          "2.1",
+          "2.10",
+          "2.11",
+          "2.12",
+          "2.2",
+          "2.3",
+          "2.4",
+          "2.5"
+        ]
+      }
+    ]
+  },
+  "49": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.13",
+          "2.14",
+          "2.15",
+          "2.16",
+          "2.17",
+          "2.18",
+          "2.19",
+          "2.20",
+          "2.21",
+          "2.22"
+        ]
+      }
+    ]
+  },
+  "50": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "2.10",
+          "2.11",
+          "2.12",
+          "2.13",
+          "2.14",
+          "2.15",
+          "2.16",
+          "2.2",
+          "2.3"
+        ]
+      }
+    ]
+  },
+  "51": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 13,
+        "examples": [
+          "1164",
+          "1169.1",
+          "1499",
+          "3.1",
+          "3.2",
+          "3.3",
+          "3.4",
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      }
+    ]
+  },
+  "52": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1169.1",
+          "11691.1",
+          "3.10",
+          "3.11",
+          "3.12",
+          "3.13",
+          "3.14",
+          "3.15",
+          "3.6",
+          "3.7"
+        ]
+      }
+    ]
+  },
+  "53": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1169.1",
+          "11691.1",
+          "30206.2"
+        ]
+      }
+    ]
+  },
+  "55": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 11,
+        "examples": [
+          "003",
+          "004",
+          "006",
+          "101",
+          "11430",
+          "11450",
+          "11460",
+          "11480",
+          "2002",
+          "201"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "4.4",
+          "6.3"
+        ]
+      }
+    ]
+  },
+  "57": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.0",
+          "2.00",
+          "6.3"
+        ]
+      }
+    ]
+  },
+  "58": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "2.2",
+          "2.3",
+          "4.1",
+          "6.1",
+          "6.2",
+          "6.4"
+        ]
+      }
+    ]
+  },
+  "59": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 14,
+        "examples": [
+          "046",
+          "069",
+          "100",
+          "101",
+          "12340",
+          "16.6667",
+          "2033",
+          "244",
+          "37",
+          "435"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.25",
+          "1.5",
+          "2.0",
+          "2.5"
+        ]
+      }
+    ]
+  },
+  "60": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-36.",
+          "-37.",
+          "0.1"
+        ]
+      }
+    ]
+  },
+  "63": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "0.050",
+          "0.1",
+          "0.2",
+          "0.3",
+          "0.4",
+          "0.7",
+          "6.2"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.025",
+          "0.05",
+          "0.06",
+          "0.075",
+          "0.10",
+          "0.12",
+          "0.13",
+          "0.15",
+          "0.16",
+          "0.18"
+        ]
+      }
+    ]
+  },
+  "64": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 18,
+        "examples": [
+          "0.14",
+          "0.15",
+          "0.16",
+          "0.18",
+          "0.26",
+          "0.35",
+          "0.40",
+          "0.45",
+          "1.5",
+          "11.0"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "0.2",
+          "0.20",
+          "0.22",
+          "0.25",
+          "0.27",
+          "0.29",
+          "0.3",
+          "0.34",
+          "0.38"
+        ]
+      }
+    ]
+  },
+  "65": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.02",
+          "0.04",
+          "0.05",
+          "0.06",
+          "0.07",
+          "0.08",
+          "0.09",
+          "0.1",
+          "0.10",
+          "0.11"
+        ]
+      }
+    ]
+  },
+  "66": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.9",
+          "-50.",
+          "-51.",
+          "0.05",
+          "0.1",
+          "0.13",
+          "0.14",
+          "0.15",
+          "0.16",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "67": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.60",
+          "0.61",
+          "0.82",
+          "1.5",
+          "6.5"
+        ]
+      }
+    ]
+  },
+  "68": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 24,
+        "examples": [
+          "0.2",
+          "156",
+          "179",
+          "187",
+          "197",
+          "207",
+          "21",
+          "217",
+          "22",
+          "229"
+        ]
+      }
+    ]
+  },
+  "69": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 18,
+        "examples": [
+          "1080",
+          "217",
+          "39",
+          "45",
+          "47",
+          "50",
+          "55",
+          "63",
+          "685",
+          "71"
+        ]
+      }
+    ]
+  },
+  "70": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "24",
+          "290",
+          "340",
+          "41",
+          "420",
+          "47",
+          "60"
+        ]
+      }
+    ]
+  },
+  "71": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 20,
+        "examples": [
+          "0.5",
+          "103",
+          "105",
+          "108",
+          "123",
+          "140",
+          "145",
+          "155",
+          "169",
+          "175"
+        ]
+      }
+    ]
+  },
+  "76": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-68.",
+          "25974.2",
+          "5.6"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "σ_a = F_a/A (1-5)",
+        "vlm_vars": [
+          "a"
+        ],
+        "trinity_vars": [
+          "Fkp",
+          "xa"
+        ]
+      }
+    ]
+  },
+  "77": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-8.",
+          "1.",
+          "2.",
+          "2597.4",
+          "25974.2",
+          "5.6"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "M_max = F_h · a · b/L (1-15)",
+        "vlm_vars": [
+          "M_max"
+        ],
+        "trinity_vars": [
+          "M1",
+          "M2",
+          "M3",
+          "a",
+          "i",
+          "m",
+          "o",
+          "p",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "σ_c = σ_a1 + σ_a2 + σ_sh (1-20)",
+        "vlm_vars": [
+          "c"
+        ],
+        "trinity_vars": [
+          "M1",
+          "M2",
+          "M3",
+          "a",
+          "i",
+          "m",
+          "o",
+          "p",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "σ_vm = (p · r_i)/t (1-22)",
+        "vlm_vars": [
+          "vm"
+        ],
+        "trinity_vars": [
+          "M1",
+          "M2",
+          "M3",
+          "a",
+          "i",
+          "m",
+          "o",
+          "p",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "σ_ri = (p · r_i)/t [1 + t/(2(r_i + t/2))] (1-23)",
+        "vlm_vars": [
+          "ri"
+        ],
+        "trinity_vars": [
+          "M1",
+          "M2",
+          "M3",
+          "a",
+          "i",
+          "m",
+          "o",
+          "p",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "σ_ro = (p · r_i)/t [1 - t/(2(r_i + t/2))] (1-24)",
+        "vlm_vars": [
+          "ro"
+        ],
+        "trinity_vars": [
+          "M1",
+          "M2",
+          "M3",
+          "a",
+          "i",
+          "m",
+          "o",
+          "p",
+          "x"
+        ]
+      }
+    ]
+  },
+  "78": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.75",
+          "1.25",
+          "1.5",
+          "1.75",
+          "10.026",
+          "10.106",
+          "10.188",
+          "10.350",
+          "10.376",
+          "10.513"
+        ]
+      }
+    ]
+  },
+  "79": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 193,
+        "examples": [
+          "1.5",
+          "13.835",
+          "14.376",
+          "14.701",
+          "14.917",
+          "15.026",
+          "15.294",
+          "15.350",
+          "15.376",
+          "15.835"
+        ]
+      },
+      {
+        "type": "trinity_much_shorter",
+        "vlm_chars": 1674,
+        "trinity_chars": 367,
+        "ratio": 4.56
+      }
+    ]
+  },
+  "80": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 209,
+        "examples": [
+          "100",
+          "100.670",
+          "101.103",
+          "101.752",
+          "102.402",
+          "102.835",
+          "103.051",
+          "103.505",
+          "103.701",
+          "105"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.051",
+          "0.103",
+          "0.376",
+          "0.670",
+          "0.701",
+          "0.752",
+          "1.026",
+          "1.103",
+          "1.402",
+          "1.5"
+        ]
+      }
+    ]
+  },
+  "81": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 203,
+        "examples": [
+          "128.505",
+          "130.670",
+          "131.103",
+          "131.752",
+          "132.402",
+          "132.835",
+          "133.051",
+          "133.505",
+          "133.701",
+          "135"
+        ]
+      }
+    ]
+  },
+  "82": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 26,
+        "examples": [
+          "11.2",
+          "22.4",
+          "261.340",
+          "263.505",
+          "264.804",
+          "265",
+          "265.670",
+          "266.103",
+          "267.402",
+          "268.505"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-72.",
+          "-76.",
+          "0.5",
+          "0.75",
+          "1.2",
+          "1.25",
+          "1.5",
+          "1.75",
+          "11.22",
+          "2.4"
+        ]
+      }
+    ]
+  },
+  "84": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "72.226",
+          "73.705",
+          "75.184"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-78.",
+          "0.581",
+          "0.856",
+          "0.907",
+          "1.162",
+          "1.337",
+          "1.479",
+          "1.814",
+          "100.330",
+          "11.445"
+        ]
+      }
+    ]
+  },
+  "85": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 53,
+        "examples": [
+          "0.1",
+          "0.43",
+          "1.2",
+          "10.5",
+          "1000",
+          "1050",
+          "112.5",
+          "1215",
+          "125",
+          "1300"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.08",
+          "0.10",
+          "0.11",
+          "0.12",
+          "0.15",
+          "0.18",
+          "0.2",
+          "0.20",
+          "0.22",
+          "0.23"
+        ]
+      }
+    ]
+  },
+  "88": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "0.5",
+          "0.6",
+          "0.7",
+          "0.8",
+          "0.9",
+          "1.1",
+          "1.4",
+          "1.8",
+          "4.03"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.48",
+          "0.50",
+          "0.52",
+          "0.60",
+          "0.63",
+          "0.74",
+          "0.78",
+          "0.80",
+          "0.94",
+          "0.95"
+        ]
+      }
+    ]
+  },
+  "89": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 88,
+        "examples": [
+          "1.00",
+          "1.60",
+          "1.8",
+          "10.60",
+          "100",
+          "11.2",
+          "11.5",
+          "115",
+          "12.0",
+          "121"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "004.00",
+          "006.30",
+          "1.002",
+          "1.25",
+          "1.5",
+          "1.50",
+          "1.603",
+          "10.00",
+          "10.0021"
+        ]
+      }
+    ]
+  },
+  "90": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 24,
+        "examples": [
+          "100000",
+          "108",
+          "115",
+          "124",
+          "150000",
+          "155",
+          "160",
+          "180",
+          "2.5",
+          "20000"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "0.10",
+          "0.2",
+          "0.3",
+          "0.4",
+          "0.5",
+          "0.6",
+          "0.8",
+          "01.21",
+          "06.08"
+        ]
+      }
+    ]
+  },
+  "91": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "0.2",
+          "0.3",
+          "0.4",
+          "0.5",
+          "0.6",
+          "0.8",
+          "1.0",
+          "1.2",
+          "1.6"
+        ]
+      }
+    ]
+  },
+  "92": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.05",
+          "0.1",
+          "0.2",
+          "0.22",
+          "0.3",
+          "0.32",
+          "0.34",
+          "0.4",
+          "0.44",
+          "0.45"
+        ]
+      }
+    ]
+  },
+  "93": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-20.",
+          "-94.",
+          "-95.",
+          "0.1",
+          "0.2",
+          "0.3",
+          "0.4",
+          "0.5",
+          "0.6",
+          "0.8"
+        ]
+      }
+    ]
+  },
+  "94": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 20,
+        "examples": [
+          "-125",
+          "-18",
+          "-50",
+          "-80",
+          "0.8",
+          "1.0",
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.8"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "0.2",
+          "0.3",
+          "0.30",
+          "0.4",
+          "0.40",
+          "0.5",
+          "0.6",
+          "0.60",
+          "0.80"
+        ]
+      }
+    ]
+  },
+  "95": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-24.",
+          "-97.",
+          "0.2",
+          "0.25",
+          "0.4",
+          "0.45",
+          "0.6",
+          "1.0",
+          "1.1",
+          "1.2"
+        ]
+      }
+    ]
+  },
+  "96": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 6,
+        "examples": [
+          "2.2",
+          "25",
+          "3.5",
+          "4.3",
+          "6.8",
+          "8.7"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.25",
+          "0.4",
+          "0.43",
+          "0.44",
+          "0.6",
+          "0.68",
+          "1.0",
+          "14.0",
+          "2.26",
+          "2.5"
+        ]
+      }
+    ]
+  },
+  "97": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "1.50",
+          "10.00",
+          "11.00",
+          "2.00",
+          "2.50",
+          "3.00",
+          "3.50",
+          "4.00",
+          "4.50",
+          "5.00"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "1.5",
+          "1.6",
+          "1.75",
+          "10.0",
+          "11.0",
+          "12.0",
+          "13.0",
+          "14.0",
+          "15.0"
+        ]
+      }
+    ]
+  },
+  "98": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 74,
+        "examples": [
+          "1.00",
+          "1.50",
+          "10.0",
+          "10.50",
+          "10.8",
+          "11.1",
+          "11.20",
+          "12.0",
+          "12.00",
+          "12.8"
+        ]
+      }
+    ]
+  },
+  "99": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 23,
+        "examples": [
+          "0.7",
+          "0.75",
+          "1.6",
+          "1.75",
+          "1.9",
+          "10.5",
+          "12.5",
+          "13.5",
+          "16.5",
+          "2.0"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-104.",
+          "-29.",
+          "0.5",
+          "0.751",
+          "04.04",
+          "1.25",
+          "1.250",
+          "1.253",
+          "1.5",
+          "1.51"
+        ]
+      }
+    ]
+  },
+  "100": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.8",
+          "-1.2",
+          "-1.6",
+          "-108.",
+          "-2.3",
+          "-2.6",
+          "-3.6",
+          "-4.4",
+          "-5.7",
+          "-6.4"
+        ]
+      }
+    ]
+  },
+  "101": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 29,
+        "examples": [
+          "-2.5",
+          "0.7",
+          "0.9",
+          "1.2",
+          "1.3",
+          "1.5",
+          "1.7",
+          "10.0",
+          "2.7",
+          "2.9"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-110.",
+          "-111.",
+          "0.02",
+          "0.03",
+          "0.04",
+          "0.07",
+          "0.11",
+          "0.14",
+          "0.16",
+          "0.22"
+        ]
+      }
+    ]
+  },
+  "102": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "17.0",
+          "21.0",
+          "25.0"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "10.0",
+          "10.5",
+          "11.0",
+          "13.0",
+          "13.5",
+          "14.5",
+          "15.0",
+          "15.5",
+          "16.5",
+          "17.5"
+        ]
+      }
+    ]
+  },
+  "103": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 8,
+        "examples": [
+          "1.00",
+          "25.420",
+          "5.107",
+          "5.153",
+          "6.107",
+          "6.153",
+          "6.859",
+          "7.859"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.75",
+          "1.0",
+          "1.07",
+          "1.25",
+          "1.50",
+          "1.75",
+          "10.0",
+          "10.00",
+          "10.106",
+          "10.107"
+        ]
+      }
+    ]
+  },
+  "104": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 129,
+        "examples": [
+          "1.25",
+          "1.50",
+          "10.00",
+          "10.50",
+          "10.612",
+          "10.859",
+          "10.912",
+          "12.00",
+          "12.50",
+          "12.612"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.01",
+          "0.02",
+          "0.135",
+          "0.6",
+          "0.9172",
+          "0271.107",
+          "0273.107",
+          "0274.107",
+          "0276.107",
+          "0277.107"
+        ]
+      }
+    ]
+  },
+  "105": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 158,
+        "examples": [
+          "11.445",
+          "11.80",
+          "11.890",
+          "14.950",
+          "15.25",
+          "16.395",
+          "18.631",
+          "19.00",
+          "2.0",
+          "20.587"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-119.",
+          "0.00",
+          "0.02",
+          "0.03",
+          "0.13",
+          "0.15",
+          "0.21",
+          "0.25",
+          "0.291",
+          "0.31"
+        ]
+      }
+    ]
+  },
+  "107": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "0.25",
+          "0.35",
+          "0.5",
+          "0.7",
+          "1.0",
+          "1.4",
+          "3.5",
+          "91",
+          "97"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.250",
+          "0.350",
+          "0.50",
+          "3.55",
+          "350.50",
+          "50.71",
+          "71.42",
+          "8.5"
+        ]
+      }
+    ]
+  },
+  "112": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06",
+          "07",
+          "08",
+          "09"
+        ]
+      }
+    ]
+  },
+  "114": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 37,
+        "examples": [
+          "-25",
+          "-265",
+          "-29",
+          "-295",
+          "-33",
+          "-330",
+          "-35",
+          "-355",
+          "-36",
+          "-38"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-127.",
+          "0.4",
+          "0.45",
+          "0.5",
+          "0.6",
+          "0.8",
+          "0.9",
+          "1.2"
+        ]
+      }
+    ]
+  },
+  "115": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 8,
+        "examples": [
+          "0.1",
+          "0.2",
+          "0.3",
+          "0.4",
+          "0.6",
+          "0.8",
+          "1.5",
+          "1.8"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.03",
+          "0.05",
+          "0.07",
+          "0.10",
+          "0.20",
+          "0.30",
+          "0.40",
+          "0.5",
+          "0.50",
+          "0.60"
+        ]
+      }
+    ]
+  },
+  "119": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.0048",
+          "0.13",
+          "0.2",
+          "0.20",
+          "0.88",
+          "0.90",
+          "0.91"
+        ]
+      }
+    ]
+  },
+  "120": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 57,
+        "examples": [
+          "1020000",
+          "103000",
+          "104000",
+          "115",
+          "120000",
+          "1200000",
+          "125000",
+          "140000",
+          "141000",
+          "159000"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.015",
+          "0.3",
+          "115.9",
+          "20.1",
+          "28.9",
+          "36.6",
+          "58.4",
+          "84.3"
+        ]
+      }
+    ]
+  },
+  "121": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 137,
+        "examples": [
+          "100000",
+          "102000",
+          "1030",
+          "1055000",
+          "107000",
+          "1070000",
+          "112000",
+          "115",
+          "115000",
+          "11600"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.0",
+          "1.2",
+          "1.25",
+          "1.3",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.73",
+          "103.5",
+          "11.5"
+        ]
+      }
+    ]
+  },
+  "122": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 65,
+        "examples": [
+          "1030",
+          "104000",
+          "109000",
+          "121000",
+          "125",
+          "130000",
+          "139000",
+          "162000",
+          "163000",
+          "167"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.25",
+          "1.5",
+          "1061.8",
+          "125.7",
+          "167.9",
+          "216.3",
+          "272.1",
+          "333.0",
+          "384.2",
+          "39.2"
+        ]
+      }
+    ]
+  },
+  "123": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 45,
+        "examples": [
+          "0.4",
+          "0.6",
+          "0.8",
+          "1.4",
+          "108",
+          "11.2",
+          "11.429",
+          "124",
+          "13.1",
+          "13.7"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.25",
+          "0.40",
+          "0.60",
+          "0.68",
+          "0.80",
+          "0.81",
+          "1.02",
+          "1.1",
+          "1.10",
+          "1.2"
+        ]
+      }
+    ]
+  },
+  "124": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "-50",
+          "-70",
+          "1.5",
+          "10.9",
+          "12.9",
+          "168",
+          "252",
+          "42",
+          "8.8"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-144.",
+          "1.144",
+          "1.7",
+          "4.",
+          "5."
+        ]
+      }
+    ]
+  },
+  "125": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 17,
+        "examples": [
+          "0.22",
+          "0.24",
+          "0.26",
+          "0.29",
+          "0.37",
+          "0.43",
+          "0.51",
+          "100",
+          "152",
+          "160"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-145.",
+          "-146.",
+          "0.08",
+          "0.09",
+          "0.2",
+          "0.3",
+          "0.4",
+          "1.2",
+          "1.5",
+          "1.6"
+        ]
+      }
+    ]
+  },
+  "126": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 23,
+        "examples": [
+          "11.8",
+          "116",
+          "12.5",
+          "13.5",
+          "13.8",
+          "15.5",
+          "16.8",
+          "17.5",
+          "18.8",
+          "21.8"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.8",
+          "1.3",
+          "1.5",
+          "1.6",
+          "1.8",
+          "10.",
+          "10.5",
+          "11.5",
+          "11.6",
+          "13.9"
+        ]
+      }
+    ]
+  },
+  "127": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.08",
+          "0.10",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.30",
+          "0.35",
+          "0.40",
+          "0.45",
+          "0.50"
+        ]
+      }
+    ]
+  },
+  "129": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 19,
+        "examples": [
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-2.",
+          "1169.2",
+          "8."
+        ]
+      }
+    ]
+  },
+  "130": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-239.",
+          "-32.",
+          "1169.1"
+        ]
+      }
+    ]
+  },
+  "131": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 13,
+        "examples": [
+          "-0.1",
+          "0.1",
+          "100",
+          "1100",
+          "125",
+          "220",
+          "25",
+          "28",
+          "3812",
+          "400"
+        ]
+      }
+    ]
+  },
+  "132": {
+    "severity": 1,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "-20",
+          "2000",
+          "650"
+        ]
+      }
+    ]
+  },
+  "133": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "-1",
+          "-2",
+          "150",
+          "200",
+          "460",
+          "4600",
+          "630"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "7.",
+          "9."
+        ]
+      }
+    ]
+  },
+  "134": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 28,
+        "examples": [
+          "100",
+          "105",
+          "110",
+          "120",
+          "125",
+          "130",
+          "140",
+          "150",
+          "160",
+          "180"
+        ]
+      }
+    ]
+  },
+  "135": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.7",
+          "0.8",
+          "1.",
+          "1.4",
+          "2."
+        ]
+      }
+    ]
+  },
+  "136": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "trinity_much_shorter",
+        "vlm_chars": 13876,
+        "trinity_chars": 4739,
+        "ratio": 2.93
+      }
+    ]
+  },
+  "138": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "W₁ = F₁s = pA₁s = (π/4)D²ps × 10⁻³  (2-12)",
+        "vlm_vars": [
+          "s"
+        ],
+        "trinity_vars": [
+          "A1",
+          "A1s",
+          "A2",
+          "A2s",
+          "F1s",
+          "F1v1",
+          "F2s",
+          "F2v2",
+          "P",
+          "P1",
+          "P2",
+          "V1",
+          "V2",
+          "V3",
+          "W1",
+          "W2",
+          "t1",
+          "t2",
+          "t3",
+          "v1"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "W₂ = F₂s = pA₂s = (π/4)(D² - d²)ps × 10⁻³  (2-13)",
+        "vlm_vars": [
+          "s"
+        ],
+        "trinity_vars": [
+          "A1",
+          "A1s",
+          "A2",
+          "A2s",
+          "F1s",
+          "F1v1",
+          "F2s",
+          "F2v2",
+          "P",
+          "P1",
+          "P2",
+          "V1",
+          "V2",
+          "V3",
+          "W1",
+          "W2",
+          "t1",
+          "t2",
+          "t3",
+          "v1"
+        ]
+      }
+    ]
+  },
+  "139": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "W_s = F_s × p A_s = (π/4) p d_s × 10^(-3)    (2-15)",
+        "vlm_vars": [
+          "A_s",
+          "W_s"
+        ],
+        "trinity_vars": [
+          "A1",
+          "A2",
+          "A3",
+          "A3s",
+          "F3s",
+          "N",
+          "W3",
+          "kN",
+          "t",
+          "y"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "η_p = (p A_1 - p_1 A_1)/(p A_1) × 100%    (2-17)",
+        "vlm_vars": [
+          "p"
+        ],
+        "trinity_vars": [
+          "A1",
+          "A2",
+          "A3",
+          "A3s",
+          "F3s",
+          "N",
+          "W3",
+          "kN",
+          "t",
+          "y"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "η_p = (p A_1 - p_1 A_1)/(p A_1) × 100%    (2-18)",
+        "vlm_vars": [
+          "p"
+        ],
+        "trinity_vars": [
+          "A1",
+          "A2",
+          "A3",
+          "A3s",
+          "F3s",
+          "N",
+          "W3",
+          "kN",
+          "t",
+          "y"
+        ]
+      }
+    ]
+  },
+  "140": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "12.57",
+          "20.11",
+          "400.87",
+          "687.23",
+          "8.77",
+          "9.42",
+          "985.20"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "100.14",
+          "100.22",
+          "103.67",
+          "1036.72",
+          "106.03",
+          "115.92",
+          "118.42",
+          "12.5",
+          "120.64",
+          "122.52"
+        ]
+      }
+    ]
+  },
+  "141": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 85,
+        "examples": [
+          "100",
+          "1000",
+          "1060.29",
+          "110",
+          "11115.34",
+          "12.57",
+          "12087.27",
+          "122.72",
+          "1225.22",
+          "125"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.3",
+          "043.30",
+          "1.5",
+          "10.23",
+          "100.14",
+          "1007.78",
+          "1030.84",
+          "105.56",
+          "106.03",
+          "11.82"
+        ]
+      }
+    ]
+  },
+  "142": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 44,
+        "examples": [
+          "1005.31",
+          "1017.88",
+          "1025.45",
+          "1060.32",
+          "1106.74",
+          "1256.64",
+          "1272.35",
+          "1286.8",
+          "1293.08",
+          "1317.54"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-17.",
+          "0672.5441",
+          "086335.37153",
+          "10.62",
+          "101012.51621125",
+          "1025.452638",
+          "1132.1011",
+          "12.5",
+          "1272356.5875",
+          "1310100.5315305"
+        ]
+      }
+    ]
+  },
+  "143": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "196035.21",
+          "196035.216",
+          "3.14159",
+          "3.1416"
+        ]
+      }
+    ]
+  },
+  "144": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 19,
+        "examples": [
+          "100",
+          "110",
+          "125",
+          "160",
+          "200",
+          "25",
+          "250",
+          "28",
+          "32",
+          "36"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.",
+          "0.2",
+          "1.",
+          "1.4",
+          "1.6",
+          "1.75",
+          "2.",
+          "2.5",
+          "3.14",
+          "3.93"
+        ]
+      }
+    ]
+  },
+  "145": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 103,
+        "examples": [
+          "100",
+          "1000",
+          "1055",
+          "1065",
+          "1095",
+          "110",
+          "1100",
+          "120",
+          "1205",
+          "1210"
+        ]
+      }
+    ]
+  },
+  "146": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 16,
+        "examples": [
+          "0.48275",
+          "1.17859",
+          "11.9842",
+          "1227",
+          "18.8574",
+          "196",
+          "2.01062",
+          "3.22062",
+          "306",
+          "384"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.482",
+          "0.922",
+          "1.010",
+          "1.129",
+          "1.153",
+          "1.178",
+          "1.263",
+          "1.304",
+          "1.345",
+          "1.412"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "F_kb = (n² π² EI) / (n_k l²)",
+        "vlm_vars": [
+          "F_kb"
+        ],
+        "trinity_vars": [
+          "E",
+          "l",
+          "mm",
+          "n",
+          "nk"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "I = π √[(EI) / (n_k F_n)]",
+        "vlm_vars": [
+          "I"
+        ],
+        "trinity_vars": [
+          "E",
+          "l",
+          "mm",
+          "n",
+          "nk"
+        ]
+      }
+    ]
+  },
+  "147": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-4.",
+          "0.2",
+          "0.24",
+          "2350.",
+          "4.",
+          "5.05",
+          "5.052"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "v'' + K²v = -K²e  (2-34)",
+        "vlm_vars": [
+          "v"
+        ],
+        "trinity_vars": [
+          "EI",
+          "F",
+          "Fk",
+          "K",
+          "N",
+          "max",
+          "nk",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "v = C₁sinKx + C₂cosKx - e  (2-35)",
+        "vlm_vars": [
+          "v"
+        ],
+        "trinity_vars": [
+          "EI",
+          "F",
+          "Fk",
+          "K",
+          "N",
+          "max",
+          "nk",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "v = e(tan(Kl/2)sinKx + cosKx - 1)  (2-36)",
+        "vlm_vars": [
+          "v"
+        ],
+        "trinity_vars": [
+          "EI",
+          "F",
+          "Fk",
+          "K",
+          "N",
+          "max",
+          "nk",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "v_max = e(sec(Kl/2) - 1)  (2-37)",
+        "vlm_vars": [
+          "v_max"
+        ],
+        "trinity_vars": [
+          "EI",
+          "F",
+          "Fk",
+          "K",
+          "N",
+          "max",
+          "nk",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "F_L = (π²EI)/l² = (π²×E×d⁴/64)/l² = (3.14²×2.11×10¹¹×3.14×0.2⁴)/(5.05²) = 6.4×10⁵ N",
+        "vlm_vars": [
+          "F_L"
+        ],
+        "trinity_vars": [
+          "EI",
+          "F",
+          "Fk",
+          "K",
+          "N",
+          "max",
+          "nk",
+          "x"
+        ]
+      }
+    ]
+  },
+  "149": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "14.",
+          "14495.",
+          "4.",
+          "47013.3"
+        ]
+      }
+    ]
+  },
+  "152": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-12.",
+          "-24.",
+          "-25."
+        ]
+      }
+    ]
+  },
+  "153": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-28.",
+          "0.63",
+          "1.00",
+          "1.32",
+          "1.70",
+          "10.5",
+          "12.5",
+          "13.3",
+          "13.5",
+          "17.5"
+        ]
+      }
+    ]
+  },
+  "154": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-32.",
+          "10.0",
+          "2.0",
+          "3.0",
+          "4.0",
+          "5.0",
+          "6.0",
+          "8.0"
+        ]
+      }
+    ]
+  },
+  "155": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 25,
+        "examples": [
+          "-100",
+          "-1000",
+          "-10000",
+          "-120",
+          "-1250",
+          "-160",
+          "-1600",
+          "-180",
+          "-250",
+          "-2500"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.10",
+          "20.40",
+          "4.7",
+          "5.8",
+          "6.1"
+        ]
+      }
+    ]
+  },
+  "156": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.3",
+          "3.2",
+          "4701.3",
+          "47013.3",
+          "6."
+        ]
+      }
+    ]
+  },
+  "158": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-33.",
+          "108.5",
+          "48.5",
+          "61.5",
+          "78.5",
+          "88.5",
+          "98.5"
+        ]
+      }
+    ]
+  },
+  "159": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-35.",
+          "0.2",
+          "0.4",
+          "0.8",
+          "1.6",
+          "3.2",
+          "7.",
+          "8."
+        ]
+      }
+    ]
+  },
+  "161": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 31,
+        "examples": [
+          "106",
+          "108",
+          "119",
+          "122",
+          "131",
+          "137",
+          "151",
+          "165",
+          "21",
+          "27"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-38.",
+          "7.",
+          "9."
+        ]
+      }
+    ]
+  },
+  "162": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.4",
+          "-40.",
+          "0.03",
+          "0.05",
+          "0.2",
+          "0.35",
+          "0.5",
+          "0.7",
+          "1.25",
+          "1.5"
+        ]
+      }
+    ]
+  },
+  "163": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-41.",
+          "0.1",
+          "0.2",
+          "0.25",
+          "0.3",
+          "0.4",
+          "0.6",
+          "0.8"
+        ]
+      }
+    ]
+  },
+  "164": {
+    "severity": 1,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "125",
+          "22",
+          "28"
+        ]
+      }
+    ]
+  },
+  "165": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 35,
+        "examples": [
+          "0.2",
+          "0.4",
+          "0.8",
+          "1.6",
+          "102",
+          "105",
+          "106",
+          "120",
+          "121",
+          "135"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-44.",
+          "-45.",
+          "-46.",
+          "2.7",
+          "2.8",
+          "4.",
+          "5.",
+          "7."
+        ]
+      }
+    ]
+  },
+  "167": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.8",
+          "-4.5",
+          "0.8",
+          "4.5"
+        ]
+      }
+    ]
+  },
+  "168": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.44",
+          "0.448",
+          "3.",
+          "300.",
+          "350."
+        ]
+      }
+    ]
+  },
+  "169": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 8,
+        "examples": [
+          "110",
+          "22",
+          "25",
+          "28",
+          "32",
+          "45",
+          "56",
+          "90"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-48.",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.30",
+          "0.35",
+          "0.40",
+          "0.50",
+          "0.60",
+          "0.70"
+        ]
+      }
+    ]
+  },
+  "170": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.2",
+          "0.4",
+          "0.8",
+          "1.6",
+          "16.0",
+          "31.5",
+          "5.4",
+          "8."
+        ]
+      }
+    ]
+  },
+  "174": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "15242.1",
+          "6.3"
+        ]
+      }
+    ]
+  },
+  "177": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "-5",
+          "5080",
+          "5171",
+          "5880",
+          "6884",
+          "70",
+          "7443",
+          "7453",
+          "7874",
+          "8533"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-53.",
+          "-54.",
+          "-55.",
+          "10708.3",
+          "36520.2"
+        ]
+      }
+    ]
+  },
+  "178": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 8,
+        "examples": [
+          "171",
+          "281",
+          "391",
+          "491",
+          "571",
+          "691",
+          "782",
+          "892"
+        ]
+      }
+    ]
+  },
+  "179": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 23,
+        "examples": [
+          "-10",
+          "-12",
+          "-14",
+          "-15",
+          "-18",
+          "-35",
+          "-37",
+          "-40",
+          "-6",
+          "-8"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-59.",
+          "-60.",
+          "-62.",
+          "5."
+        ]
+      }
+    ]
+  },
+  "180": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 22,
+        "examples": [
+          "100",
+          "125",
+          "140",
+          "150",
+          "22",
+          "220",
+          "24",
+          "25",
+          "250",
+          "30"
+        ]
+      }
+    ]
+  },
+  "181": {
+    "severity": 1,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "25",
+          "50",
+          "56"
+        ]
+      }
+    ]
+  },
+  "182": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "10708.2",
+          "2.5",
+          "3.5",
+          "5.0"
+        ]
+      }
+    ]
+  },
+  "184": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "-159",
+          "-65",
+          "0.0002",
+          "0.4",
+          "0.5",
+          "2.5",
+          "2880"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-1.",
+          "-159.",
+          "0.002",
+          "0.01",
+          "0.03",
+          "0.04",
+          "0.40",
+          "1.25",
+          "1.5",
+          "2880."
+        ]
+      }
+    ]
+  },
+  "185": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-2.",
+          "-67.2",
+          "22.5",
+          "7.5"
+        ]
+      }
+    ]
+  },
+  "186": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 21,
+        "examples": [
+          "0.04",
+          "0.06",
+          "0.09",
+          "0.26",
+          "0.3",
+          "0.36",
+          "0.4",
+          "0.45",
+          "0.5",
+          "0.54"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "3.",
+          "4.",
+          "5.",
+          "7."
+        ]
+      }
+    ]
+  },
+  "187": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 5,
+        "examples": [
+          "0.35",
+          "0.4",
+          "0.45",
+          "0.5",
+          "0.75"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.3",
+          "0.30",
+          "0.350",
+          "0.40",
+          "0.50",
+          "3.4",
+          "3.5"
+        ]
+      }
+    ]
+  },
+  "188": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 4,
+        "examples": [
+          "0.15",
+          "0.3",
+          "0.5",
+          "0.6"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-10.",
+          "-9.",
+          "0.50",
+          "0.60",
+          "1.6",
+          "2.5",
+          "3.5",
+          "30.15",
+          "30.3",
+          "50.5"
+        ]
+      }
+    ]
+  },
+  "189": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "12.0",
+          "125",
+          "16.0",
+          "160",
+          "180",
+          "200",
+          "220",
+          "250",
+          "3.0",
+          "31.4"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.3",
+          "0.5",
+          "0.8",
+          "0.9",
+          "1.",
+          "1.1",
+          "1.5",
+          "11.4",
+          "14.7",
+          "2.0"
+        ]
+      }
+    ]
+  },
+  "190": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "0.1",
+          "0.15",
+          "0.3",
+          "0.45",
+          "0.5",
+          "0.75",
+          "63"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-4.",
+          "0.015",
+          "0.025",
+          "0.04",
+          "0.06",
+          "0.09",
+          "0.10",
+          "0.30",
+          "0.50",
+          "2."
+        ]
+      }
+    ]
+  },
+  "191": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-15.",
+          "-16.",
+          "-17.",
+          "0.03",
+          "0.04",
+          "0.05",
+          "1.",
+          "10.",
+          "1169.1",
+          "11691.1"
+        ]
+      }
+    ]
+  },
+  "192": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.001",
+          "0.05",
+          "1.0",
+          "1.1",
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7"
+        ]
+      }
+    ]
+  },
+  "197": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.15",
+          "-9.",
+          "0.15",
+          "0.2",
+          "0.8",
+          "10.4",
+          "2.1",
+          "2.10"
+        ]
+      }
+    ]
+  },
+  "198": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.2",
+          "-14.",
+          "0.015",
+          "0.02",
+          "0.03",
+          "0.08",
+          "0.1",
+          "0.15",
+          "0.2",
+          "0.8"
+        ]
+      }
+    ]
+  },
+  "199": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.2",
+          "-10.",
+          "-11.",
+          "-16.",
+          "0.4",
+          "0.6",
+          "1.",
+          "1.7",
+          "2.2",
+          "36.8"
+        ]
+      }
+    ]
+  },
+  "200": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "F_s = (F_i - F_t) / 4",
+        "vlm_vars": [
+          "F_s"
+        ],
+        "trinity_vars": [
+          "Fs"
+        ]
+      }
+    ]
+  },
+  "201": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "1.1",
+          "1.3",
+          "1.4",
+          "1.6",
+          "1.9",
+          "2.4"
+        ]
+      }
+    ]
+  },
+  "203": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 13,
+        "examples": [
+          "-10.0",
+          "-12.20",
+          "-125",
+          "-200",
+          "-25",
+          "-250",
+          "-38.7",
+          "-400",
+          "-60",
+          "-670"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-19.",
+          "-70.",
+          "-71.",
+          "10.08",
+          "10.6",
+          "12.20",
+          "14.0",
+          "3.75",
+          "38.76",
+          "4.87"
+        ]
+      }
+    ]
+  },
+  "204": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 26,
+        "examples": [
+          "10.5",
+          "11.5",
+          "13.5",
+          "15.0",
+          "15.5",
+          "16.0",
+          "17.0",
+          "19.0",
+          "20.0",
+          "20.5"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-72.",
+          "-73.",
+          "0.01",
+          "0.06",
+          "0.51",
+          "1.",
+          "1.0",
+          "1.02",
+          "1.23",
+          "1.31"
+        ]
+      }
+    ]
+  },
+  "205": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "1.8",
+          "109",
+          "18.0",
+          "3.55",
+          "5.0",
+          "5.30",
+          "7.00"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-78.",
+          "0.03",
+          "0.07",
+          "0.15",
+          "0.17",
+          "0.30",
+          "0.35",
+          "0.50",
+          "0.60",
+          "0.65"
+        ]
+      }
+    ]
+  },
+  "206": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "2.0",
+          "2.15",
+          "2.95"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.05",
+          "0.1",
+          "0.10",
+          "0.2",
+          "0.25",
+          "0.3",
+          "0.4",
+          "0.8",
+          "1.1",
+          "1.2"
+        ]
+      }
+    ]
+  },
+  "207": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.4",
+          "0.8",
+          "1.6",
+          "1.8",
+          "10.4",
+          "11.2",
+          "11.4",
+          "12.1",
+          "12.4",
+          "12.5"
+        ]
+      }
+    ]
+  },
+  "208": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 299,
+        "examples": [
+          "100",
+          "100.6",
+          "101",
+          "101.6",
+          "102",
+          "102.6",
+          "103",
+          "103.6",
+          "104",
+          "104.6"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.65",
+          "1.5",
+          "1.65",
+          "2.5",
+          "2.65",
+          "3.55",
+          "3.65",
+          "4.65",
+          "5.65",
+          "6.65"
+        ]
+      },
+      {
+        "type": "trinity_much_shorter",
+        "vlm_chars": 2034,
+        "trinity_chars": 535,
+        "ratio": 3.8
+      }
+    ]
+  },
+  "209": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 300,
+        "examples": [
+          "100",
+          "101.8",
+          "102",
+          "103",
+          "103.8",
+          "104",
+          "105",
+          "105.8",
+          "106",
+          "106.8"
+        ]
+      }
+    ]
+  },
+  "210": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 291,
+        "examples": [
+          "109",
+          "111",
+          "112",
+          "113",
+          "114",
+          "115",
+          "117",
+          "118",
+          "119",
+          "121"
+        ]
+      }
+    ]
+  },
+  "211": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 243,
+        "examples": [
+          "175",
+          "177",
+          "177.5",
+          "179",
+          "180",
+          "181",
+          "182.5",
+          "183",
+          "184",
+          "185"
+        ]
+      }
+    ]
+  },
+  "212": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 239,
+        "examples": [
+          "406",
+          "412",
+          "413",
+          "414",
+          "415",
+          "417",
+          "418",
+          "419",
+          "421",
+          "423"
+        ]
+      }
+    ]
+  },
+  "213": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 155,
+        "examples": [
+          "1.8",
+          "10.7",
+          "11.2",
+          "11.7",
+          "12.1",
+          "12.7",
+          "13.1",
+          "13.7",
+          "14.7",
+          "15.7"
+        ]
+      }
+    ]
+  },
+  "214": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 300,
+        "examples": [
+          "100",
+          "100.4",
+          "101",
+          "101.4",
+          "102",
+          "102.4",
+          "103",
+          "103.4",
+          "104",
+          "104.4"
+        ]
+      }
+    ]
+  },
+  "215": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 296,
+        "examples": [
+          "100",
+          "100.2",
+          "102",
+          "102.2",
+          "103",
+          "103.2",
+          "104",
+          "104.2",
+          "105",
+          "106"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.2",
+          "1.2",
+          "1.5",
+          "2.2",
+          "2.5",
+          "3.2",
+          "4.2",
+          "5.2",
+          "5.3",
+          "6.2"
+        ]
+      }
+    ]
+  },
+  "216": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 282,
+        "examples": [
+          "106",
+          "108",
+          "109",
+          "110",
+          "112",
+          "114",
+          "115",
+          "116",
+          "117",
+          "118"
+        ]
+      }
+    ]
+  },
+  "217": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 238,
+        "examples": [
+          "212",
+          "214",
+          "215",
+          "216",
+          "218",
+          "220",
+          "222",
+          "223",
+          "224",
+          "225"
+        ]
+      }
+    ]
+  },
+  "218": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 219,
+        "examples": [
+          "446",
+          "448",
+          "450",
+          "452",
+          "454",
+          "455",
+          "456",
+          "457",
+          "458",
+          "459"
+        ]
+      }
+    ]
+  },
+  "220": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 6,
+        "examples": [
+          "0.4",
+          "22",
+          "24",
+          "46",
+          "53",
+          "9.5"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.10",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.3",
+          "2.5",
+          "31.5",
+          "6.3",
+          "7.5"
+        ]
+      }
+    ]
+  },
+  "221": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 5,
+        "examples": [
+          "0.05",
+          "0.10",
+          "0.20",
+          "15.5",
+          "29"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.10",
+          "-0.15",
+          "-0.20",
+          "0.15",
+          "0.25",
+          "0.3",
+          "0.30",
+          "0.35",
+          "0.40"
+        ]
+      }
+    ]
+  },
+  "222": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 57,
+        "examples": [
+          "0.3",
+          "0.4",
+          "0.6",
+          "1.0",
+          "100",
+          "105",
+          "110",
+          "120",
+          "125",
+          "130"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.10",
+          "-0.15",
+          "-0.20",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.30",
+          "0.34",
+          "0.35"
+        ]
+      }
+    ]
+  },
+  "223": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 53,
+        "examples": [
+          "0.05",
+          "0.10",
+          "0.20",
+          "0.3",
+          "0.6",
+          "1.0",
+          "100",
+          "105",
+          "110",
+          "115"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.10",
+          "-0.15",
+          "-0.20",
+          "0.15",
+          "0.25",
+          "0.30",
+          "0.34",
+          "0.35",
+          "0.40"
+        ]
+      }
+    ]
+  },
+  "224": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 53,
+        "examples": [
+          "0.10",
+          "0.20",
+          "0.3",
+          "0.4",
+          "0.6",
+          "0.8",
+          "100",
+          "105",
+          "110",
+          "125"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.10",
+          "-0.15",
+          "-0.20",
+          "0.15",
+          "0.25",
+          "0.30",
+          "0.35",
+          "0.40",
+          "12.5",
+          "2.51"
+        ]
+      }
+    ]
+  },
+  "225": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 109,
+        "examples": [
+          "0.5",
+          "1.5",
+          "10.5",
+          "100",
+          "103",
+          "105",
+          "108",
+          "110",
+          "113",
+          "115"
+        ]
+      }
+    ]
+  },
+  "226": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "0.020",
+          "0.025",
+          "0.032",
+          "0.040",
+          "0.075",
+          "0.085",
+          "0.105",
+          "0.130",
+          "0.165",
+          "0.195"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.020",
+          "-0.025",
+          "-0.032",
+          "-0.040",
+          "-0.050",
+          "-0.060",
+          "-0.070",
+          "-0.075",
+          "-0.085",
+          "-0.090"
+        ]
+      }
+    ]
+  },
+  "227": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 80,
+        "examples": [
+          "10.5",
+          "102",
+          "107",
+          "110",
+          "112",
+          "117",
+          "120",
+          "122",
+          "125",
+          "13.5"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.15",
+          "-88.",
+          "0.15",
+          "1.4",
+          "1.6",
+          "1.8",
+          "10.2",
+          "10.7",
+          "11.2",
+          "11.7"
+        ]
+      }
+    ]
+  },
+  "228": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 91,
+        "examples": [
+          "0.020",
+          "0.025",
+          "0.032",
+          "0.040",
+          "0.075",
+          "0.085",
+          "0.10",
+          "0.100",
+          "0.105",
+          "0.120"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.020",
+          "-0.025",
+          "-0.032",
+          "-0.040",
+          "-0.050",
+          "-0.060",
+          "-0.070",
+          "-0.075",
+          "-0.085",
+          "-0.090"
+        ]
+      }
+    ]
+  },
+  "230": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "-0.10",
+          "0.15",
+          "0.3"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.1",
+          "-29.",
+          "-90.",
+          "0.1",
+          "0.25",
+          "10708.1",
+          "2.5"
+        ]
+      }
+    ]
+  },
+  "231": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 55,
+        "examples": [
+          "0.05",
+          "0.10",
+          "0.3",
+          "100",
+          "105",
+          "110",
+          "115",
+          "120",
+          "125",
+          "135"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.10",
+          "-0.15",
+          "-0.20",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.30",
+          "0.34",
+          "0.35"
+        ]
+      }
+    ]
+  },
+  "232": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 64,
+        "examples": [
+          "0.10",
+          "0.30",
+          "0.35",
+          "0.40",
+          "100",
+          "105",
+          "110",
+          "12.5",
+          "120",
+          "125"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.10",
+          "-0.15",
+          "-0.20",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.3",
+          "0.4",
+          "0.6",
+          "0.8"
+        ]
+      }
+    ]
+  },
+  "233": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-32.",
+          "-91.",
+          "0.05",
+          "0.1",
+          "0.15",
+          "0.3",
+          "0.5"
+        ]
+      }
+    ]
+  },
+  "235": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 13,
+        "examples": [
+          "21.5",
+          "26.5",
+          "284.1",
+          "289.4",
+          "324.1",
+          "329.4",
+          "364.5",
+          "37.5",
+          "41.5",
+          "51.5"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-149.",
+          "0.10",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.30",
+          "0.35",
+          "0.45",
+          "0.60",
+          "0.90"
+        ]
+      }
+    ]
+  },
+  "236": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 76,
+        "examples": [
+          "0.08",
+          "0.10",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.35",
+          "0.45",
+          "0.60",
+          "0.90",
+          "105.30"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-94.",
+          "0.2",
+          "0.3",
+          "0.5",
+          "107.3",
+          "112.5",
+          "12.5",
+          "122.3",
+          "137.3",
+          "157.2"
+        ]
+      }
+    ]
+  },
+  "237": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 16,
+        "examples": [
+          "12.90",
+          "14.90",
+          "20.90",
+          "23.90",
+          "26.90",
+          "28.60",
+          "30.60",
+          "33.80",
+          "36.80",
+          "38.80"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.08",
+          "0.10",
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.35",
+          "0.45",
+          "0.60",
+          "0.90",
+          "10.90"
+        ]
+      }
+    ]
+  },
+  "238": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "0.1",
+          "0.3",
+          "35"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.10",
+          "0.15",
+          "0.30",
+          "0.5"
+        ]
+      }
+    ]
+  },
+  "239": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 47,
+        "examples": [
+          "12.5",
+          "15.3",
+          "16.5",
+          "17.2",
+          "18.6",
+          "19.2",
+          "19.3",
+          "20.5",
+          "20.6",
+          "21.2"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.15",
+          "0.18",
+          "0.20",
+          "0.22",
+          "11.3",
+          "3.5",
+          "4.4",
+          "4.7",
+          "5.5",
+          "5.8"
+        ]
+      }
+    ]
+  },
+  "240": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 123,
+        "examples": [
+          "-40",
+          "0.15",
+          "0.20",
+          "0.22",
+          "0.25",
+          "0.28",
+          "0.35",
+          "0.45",
+          "0.5",
+          "0.60"
+        ]
+      }
+    ]
+  },
+  "242": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 125,
+        "examples": [
+          "0.15",
+          "0.20",
+          "0.22",
+          "0.25",
+          "0.28",
+          "0.35",
+          "0.45",
+          "0.60",
+          "0.90",
+          "10.8"
+        ]
+      }
+    ]
+  },
+  "243": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 71,
+        "examples": [
+          "-0.10",
+          "-0.12",
+          "-0.15",
+          "-0.18",
+          "-0.22",
+          "-0.26",
+          "-0.35",
+          "-0.50",
+          "0.10",
+          "0.12"
+        ]
+      }
+    ]
+  },
+  "244": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 28,
+        "examples": [
+          "106",
+          "108",
+          "108.5",
+          "119",
+          "120",
+          "123",
+          "22",
+          "31",
+          "37.6",
+          "39"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.10",
+          "-44.",
+          "0.4",
+          "0.5",
+          "0.8",
+          "1.5",
+          "10.4",
+          "12.5",
+          "2.5",
+          "20.5"
+        ]
+      }
+    ]
+  },
+  "245": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 20,
+        "examples": [
+          "0.8",
+          "115",
+          "12.5",
+          "135",
+          "155",
+          "170",
+          "175",
+          "190",
+          "290",
+          "330"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.10",
+          "-45.",
+          "0.85",
+          "0.87",
+          "1.2",
+          "12.511",
+          "2.5",
+          "256.337",
+          "4.",
+          "5.1"
+        ]
+      }
+    ]
+  },
+  "247": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 43,
+        "examples": [
+          "0160",
+          "0200",
+          "0250",
+          "0320",
+          "0400",
+          "0500",
+          "0560",
+          "0630",
+          "0700",
+          "0800"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.2",
+          "0.20",
+          "0.25",
+          "0.30",
+          "0.35",
+          "0.40",
+          "0.45",
+          "0.63",
+          "0.77",
+          "0.92"
+        ]
+      }
+    ]
+  },
+  "248": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "12.1",
+          "12.5",
+          "14.5",
+          "15.0",
+          "17.0",
+          "17.5",
+          "177.5",
+          "19.5",
+          "329.0",
+          "5.9"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.50",
+          "0.55",
+          "0.60",
+          "0.65",
+          "0.70",
+          "0.75",
+          "1.65",
+          "1.85",
+          "12.51",
+          "15.01"
+        ]
+      }
+    ]
+  },
+  "249": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 112,
+        "examples": [
+          "0.35",
+          "0.40",
+          "0.45",
+          "0.50",
+          "0.55",
+          "0500",
+          "0600",
+          "0630",
+          "0650",
+          "0700"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.3",
+          "0.4",
+          "0.5",
+          "1.0",
+          "1.2",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.8",
+          "2.5"
+        ]
+      }
+    ]
+  },
+  "250": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 27,
+        "examples": [
+          "0.15",
+          "0.20",
+          "0.25",
+          "0.30",
+          "0.45",
+          "0.51",
+          "0.63",
+          "0.77",
+          "0.92",
+          "0060"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.15",
+          "-0.20",
+          "-0.25",
+          "-0.30",
+          "-0.45",
+          "-0.51",
+          "-0.63",
+          "-0.77",
+          "-0.92",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "251": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 131,
+        "examples": [
+          "0560",
+          "0600",
+          "0630",
+          "0700",
+          "0800",
+          "0900",
+          "100",
+          "100.7",
+          "1000",
+          "103.0"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.35",
+          "-0.40",
+          "-0.45",
+          "-0.50",
+          "-1.09",
+          "-1.27",
+          "-1.45",
+          "-1.65",
+          "0.0",
+          "1.5"
+        ]
+      }
+    ]
+  },
+  "252": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 66,
+        "examples": [
+          "0.55",
+          "0.60",
+          "0.65",
+          "0.70",
+          "0.75",
+          "1.85",
+          "2.00",
+          "2.20",
+          "2.45",
+          "2.75"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.5",
+          "-0.6",
+          "-0.7",
+          "-1.8",
+          "-2.0",
+          "-2.2",
+          "-2.4",
+          "-2.7",
+          "0.0",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "253": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 44,
+        "examples": [
+          "10.5",
+          "104",
+          "105",
+          "109.5",
+          "119",
+          "12.5",
+          "120",
+          "124.5",
+          "135",
+          "139"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-108.",
+          "0.20",
+          "0.5",
+          "0.9",
+          "048.1",
+          "10.51",
+          "10.60",
+          "10.70",
+          "10.80",
+          "10.90"
+        ]
+      }
+    ]
+  },
+  "254": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 33,
+        "examples": [
+          "10.5",
+          "12.25",
+          "12.5",
+          "155",
+          "159",
+          "164.5",
+          "175",
+          "179",
+          "184.5",
+          "195"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-109.",
+          "0.20",
+          "0.9",
+          "10.51598",
+          "10.51799",
+          "10.51999",
+          "10.52298",
+          "10.52598",
+          "10.52998",
+          "10.53398"
+        ]
+      }
+    ]
+  },
+  "255": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-110.",
+          "-112.",
+          "0.25",
+          "0.5",
+          "0.9",
+          "10.5",
+          "105.5",
+          "115.5",
+          "12.25",
+          "125.5"
+        ]
+      },
+      {
+        "type": "vlm_much_shorter",
+        "vlm_chars": 877,
+        "trinity_chars": 2308,
+        "ratio": 0.38
+      }
+    ]
+  },
+  "256": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 6,
+        "examples": [
+          "100",
+          "12.25",
+          "125",
+          "3.75",
+          "70",
+          "80"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.1",
+          "-0.2",
+          "-0.3",
+          "-0.4",
+          "-0.5",
+          "-0.8",
+          "-0.9",
+          "-1.0",
+          "-1.1",
+          "0.3"
+        ]
+      }
+    ]
+  },
+  "257": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "-0.2",
+          "-0.4",
+          "-0.6"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.2",
+          "0.4",
+          "0.6",
+          "0.8",
+          "1.0",
+          "10."
+        ]
+      }
+    ]
+  },
+  "258": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 60,
+        "examples": [
+          "0.2",
+          "0.35",
+          "100.4",
+          "100.5",
+          "100.6",
+          "105",
+          "105.5",
+          "110",
+          "110.4",
+          "110.5"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "0.26",
+          "0.3",
+          "0.34",
+          "0.352",
+          "0.4",
+          "0.5",
+          "0.6",
+          "0.9",
+          "06.1"
+        ]
+      }
+    ]
+  },
+  "259": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.3",
+          "0.1",
+          "0.3",
+          "0.4",
+          "0.8",
+          "1.2",
+          "1.6",
+          "108.5",
+          "12.5",
+          "123.5"
+        ]
+      }
+    ]
+  },
+  "260": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-54.",
+          "0.3",
+          "1.5",
+          "1.6"
+        ]
+      }
+    ]
+  },
+  "261": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 108,
+        "examples": [
+          "10.5",
+          "100",
+          "104.5",
+          "105",
+          "109.5",
+          "110",
+          "114",
+          "114.5",
+          "115",
+          "119"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-55.",
+          "-56.",
+          "0.12",
+          "0.20",
+          "0.5",
+          "1.5",
+          "157.5",
+          "168.5",
+          "2.5",
+          "24.2"
+        ]
+      }
+    ]
+  },
+  "262": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 108,
+        "examples": [
+          "100",
+          "100.1",
+          "105.1",
+          "11.9",
+          "110.1",
+          "115.1",
+          "120",
+          "125",
+          "125.1",
+          "130"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.3",
+          "0105.16",
+          "0115.16",
+          "0125.16",
+          "0135.16",
+          "0145.16",
+          "055.16",
+          "065.16",
+          "075.16",
+          "085.16"
+        ]
+      }
+    ]
+  },
+  "263": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 20,
+        "examples": [
+          "0.10",
+          "0.20",
+          "0.40",
+          "0.50",
+          "1.78",
+          "10.00",
+          "11.0",
+          "13.0",
+          "15.5",
+          "18.0"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-10.0",
+          "-11.0",
+          "-13.0",
+          "-15.5",
+          "-18.0",
+          "-21.0",
+          "-24.5",
+          "-28.0",
+          "-31.0",
+          "-35.0"
+        ]
+      }
+    ]
+  },
+  "264": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.3",
+          "2.",
+          "5."
+        ]
+      }
+    ]
+  },
+  "265": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 54,
+        "examples": [
+          "0.3",
+          "0.4",
+          "0.5",
+          "0.6",
+          "0.8",
+          "0.9",
+          "110",
+          "115",
+          "120",
+          "125"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.20",
+          "0.30",
+          "0.50",
+          "1011.5",
+          "1063.00",
+          "1070.00",
+          "1077.00",
+          "1087.00",
+          "1097.00",
+          "1101.25"
+        ]
+      }
+    ]
+  },
+  "266": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 59,
+        "examples": [
+          "0.3",
+          "100",
+          "110",
+          "115",
+          "125",
+          "140",
+          "155",
+          "16.5",
+          "160",
+          "175"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.20",
+          "0.50",
+          "1007.51125911",
+          "1107.51255911",
+          "1257.51405911",
+          "1407.51555911",
+          "1607.51755911",
+          "1807.51955911",
+          "2207.52405911",
+          "2507.02705911"
+        ]
+      }
+    ]
+  },
+  "267": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 53,
+        "examples": [
+          "0.3",
+          "0.4",
+          "0.6",
+          "0.8",
+          "100",
+          "103",
+          "110",
+          "114",
+          "125",
+          "129"
+        ]
+      }
+    ]
+  },
+  "268": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 121,
+        "examples": [
+          "0.8",
+          "1.5",
+          "100",
+          "101.5",
+          "102",
+          "102.8",
+          "108.8",
+          "110",
+          "111.5",
+          "112"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1004.4108",
+          "1104.4118",
+          "1202.41",
+          "1212.28",
+          "1254.4133",
+          "1406.1152",
+          "1606.1172",
+          "1806.1192",
+          "183.424",
+          "203.426"
+        ]
+      }
+    ]
+  },
+  "269": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 18,
+        "examples": [
+          "102",
+          "107",
+          "118",
+          "21",
+          "22.4",
+          "27",
+          "29",
+          "34.4",
+          "38.5",
+          "39"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.3",
+          "0.5",
+          "1.",
+          "12.",
+          "17.4",
+          "24.4",
+          "26.5",
+          "31.5",
+          "35.5",
+          "47.5"
+        ]
+      }
+    ]
+  },
+  "270": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 33,
+        "examples": [
+          "105",
+          "110",
+          "112",
+          "113",
+          "118",
+          "120",
+          "121",
+          "125",
+          "126",
+          "128"
+        ]
+      }
+    ]
+  },
+  "271": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 48,
+        "examples": [
+          "0250008",
+          "0250010",
+          "0400012",
+          "0400016",
+          "0400020",
+          "0400025",
+          "0400032",
+          "0400040",
+          "0400050",
+          "0560016"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.15",
+          "0.2",
+          "1.0",
+          "1.2",
+          "1.5",
+          "1.55",
+          "1.6",
+          "11.0",
+          "12.9"
+        ]
+      }
+    ]
+  },
+  "272": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 69,
+        "examples": [
+          "0063",
+          "0080",
+          "0085",
+          "0090",
+          "0100",
+          "0110",
+          "0115",
+          "0560063",
+          "0560080",
+          "0560085"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.08",
+          "0.2",
+          "14.8",
+          "15.0",
+          "2.0",
+          "2.5",
+          "3.0",
+          "3.5",
+          "5.0"
+        ]
+      }
+    ]
+  },
+  "273": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 70,
+        "examples": [
+          "0125",
+          "0135",
+          "0140",
+          "0145",
+          "0160",
+          "0180",
+          "0810135",
+          "0810140",
+          "0810145",
+          "0810160"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.08",
+          "-0.18",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "274": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 36,
+        "examples": [
+          "0200",
+          "0220",
+          "0250",
+          "0270",
+          "0280",
+          "0290",
+          "0810220",
+          "0810250",
+          "0810270",
+          "0810280"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.15",
+          "0.2",
+          "14.8",
+          "15.0",
+          "19.5",
+          "2.5",
+          "20.0",
+          "24.5",
+          "25.0"
+        ]
+      }
+    ]
+  },
+  "275": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 11,
+        "examples": [
+          "0300",
+          "0320",
+          "0350",
+          "0360",
+          "0400",
+          "0450",
+          "0500",
+          "150",
+          "200",
+          "250"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.08",
+          "-0.15",
+          "-0.18",
+          "14.8",
+          "15.0",
+          "19.5",
+          "2.5",
+          "20.0",
+          "24.5"
+        ]
+      }
+    ]
+  },
+  "276": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 42,
+        "examples": [
+          "0500",
+          "0540",
+          "0560",
+          "0600",
+          "0620",
+          "0850",
+          "14.8",
+          "15.0",
+          "150",
+          "1695"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.15",
+          "0.2",
+          "10.0",
+          "150.0",
+          "2.5",
+          "200.0",
+          "250.0",
+          "3.0",
+          "300.0"
+        ]
+      }
+    ]
+  },
+  "277": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 67,
+        "examples": [
+          "0250004",
+          "0250005",
+          "0250006",
+          "0250008",
+          "0250010",
+          "0400012",
+          "0400014",
+          "0400016",
+          "0400018",
+          "0400020"
+        ]
+      }
+    ]
+  },
+  "278": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 86,
+        "examples": [
+          "0050",
+          "0056",
+          "0063",
+          "0070",
+          "0080",
+          "0560036",
+          "0560040",
+          "0560045",
+          "0560050",
+          "0560056"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.08",
+          "-0.15",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "279": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 71,
+        "examples": [
+          "0090",
+          "0100",
+          "0110",
+          "0120",
+          "0125",
+          "0130",
+          "0810100",
+          "0810110",
+          "0810120",
+          "0810125"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.18",
+          "0.05",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "280": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 71,
+        "examples": [
+          "0140",
+          "0150",
+          "0160",
+          "0170",
+          "0180",
+          "0190",
+          "0810150",
+          "0810160",
+          "0810170",
+          "0810180"
+        ]
+      }
+    ]
+  },
+  "281": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 71,
+        "examples": [
+          "0200",
+          "0210",
+          "0220",
+          "0240",
+          "0250",
+          "0280",
+          "0810210",
+          "0810220",
+          "0810240",
+          "0810250"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.18",
+          "0.05",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "282": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 92,
+        "examples": [
+          "-10.0",
+          "-15",
+          "-6.0",
+          "-8.0",
+          "000",
+          "01000",
+          "0290",
+          "0320",
+          "0360",
+          "0400"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.05",
+          "-0.15",
+          "0.2"
+        ]
+      }
+    ]
+  },
+  "283": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 35,
+        "examples": [
+          "1.5",
+          "105",
+          "110",
+          "120",
+          "125",
+          "135",
+          "140",
+          "155",
+          "160",
+          "175"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-130.",
+          "0.20",
+          "0.3",
+          "2.5",
+          "8.1",
+          "9.7"
+        ]
+      }
+    ]
+  },
+  "284": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 46,
+        "examples": [
+          "100",
+          "105",
+          "110",
+          "115",
+          "125",
+          "130",
+          "140",
+          "145",
+          "160",
+          "165"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.20",
+          "0.3",
+          "1.5",
+          "2.",
+          "2.5",
+          "3.2",
+          "31.5",
+          "4.2",
+          "6.3",
+          "8.1"
+        ]
+      }
+    ]
+  },
+  "285": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 21,
+        "examples": [
+          "-1000",
+          "-125",
+          "-1500",
+          "-17",
+          "-250",
+          "-3",
+          "-33",
+          "-48",
+          "-49",
+          "-50"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.08",
+          "-3.14",
+          "-5.015",
+          "-5.025",
+          "-5.05",
+          "-5.09",
+          "-8.025",
+          "0.50",
+          "0.8",
+          "0.90"
+        ]
+      }
+    ]
+  },
+  "286": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-149.",
+          "-70.",
+          "-71."
+        ]
+      }
+    ]
+  },
+  "287": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.15",
+          "0.15",
+          "1.6",
+          "1010.",
+          "2.8"
+        ]
+      }
+    ]
+  },
+  "288": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 21,
+        "examples": [
+          "0.020",
+          "0.085",
+          "0.100",
+          "0.3",
+          "0.4",
+          "0.5",
+          "0.6",
+          "0.8",
+          "1.0",
+          "1.2"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.020",
+          "-0.025",
+          "-0.030",
+          "-0.032",
+          "-0.040",
+          "-0.045",
+          "-0.050",
+          "-0.060",
+          "-0.070",
+          "-0.075"
+        ]
+      }
+    ]
+  },
+  "289": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.016",
+          "0.023",
+          "0.05",
+          "0.10",
+          "0.13",
+          "0.14",
+          "0.34",
+          "0.37",
+          "0.46",
+          "0.48"
+        ]
+      }
+    ]
+  },
+  "290": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 24,
+        "examples": [
+          "10.4",
+          "12.4",
+          "14.4",
+          "16.4",
+          "18.4",
+          "20.5",
+          "22.5",
+          "24.5",
+          "27.5",
+          "30.5"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.10",
+          "-0.14",
+          "-0.28",
+          "-0.34",
+          "0.24",
+          "0.28",
+          "0.34",
+          "1.5",
+          "10.41",
+          "12.2"
+        ]
+      }
+    ]
+  },
+  "291": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.14",
+          "-0.28",
+          "-0.34",
+          "-0.40",
+          "0.1",
+          "0.15",
+          "0.20",
+          "0.24",
+          "0.25",
+          "0.28"
+        ]
+      }
+    ]
+  },
+  "292": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 28,
+        "examples": [
+          "13.8",
+          "16.8",
+          "18.8",
+          "21.8",
+          "23",
+          "23.8",
+          "25",
+          "26.8",
+          "30",
+          "31.8"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.0",
+          "1.5",
+          "1.516",
+          "1.518",
+          "1.520",
+          "1.521",
+          "1.522",
+          "1.523",
+          "1.526",
+          "113.82"
+        ]
+      }
+    ]
+  },
+  "294": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-147.",
+          "0.5",
+          "31.5"
+        ]
+      }
+    ]
+  },
+  "295": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-148.",
+          "0.04",
+          "0.1",
+          "1.0",
+          "1.5",
+          "34.3",
+          "4.82",
+          "58.8"
+        ]
+      }
+    ]
+  },
+  "296": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "1.",
+          "1.0",
+          "1.5",
+          "2.",
+          "3.",
+          "31.5"
+        ]
+      }
+    ]
+  },
+  "297": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "1.",
+          "1.0",
+          "2.",
+          "3."
+        ]
+      }
+    ]
+  },
+  "298": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "1.0",
+          "2.",
+          "3.",
+          "4."
+        ]
+      }
+    ]
+  },
+  "299": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 13,
+        "examples": [
+          "-30",
+          "-40",
+          "0.5",
+          "1.",
+          "1.0",
+          "100",
+          "130",
+          "2.",
+          "3.",
+          "31.5"
+        ]
+      },
+      {
+        "type": "trinity_much_shorter",
+        "vlm_chars": 2838,
+        "trinity_chars": 209,
+        "ratio": 13.58
+      }
+    ]
+  },
+  "300": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "1.0",
+          "2.",
+          "3.",
+          "4."
+        ]
+      }
+    ]
+  },
+  "301": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "1.0",
+          "2.",
+          "3."
+        ]
+      }
+    ]
+  },
+  "302": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "-30",
+          "-45",
+          "0.5",
+          "1.0",
+          "100",
+          "110",
+          "35",
+          "50",
+          "70"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "1.5",
+          "2.",
+          "2.10",
+          "3.",
+          "8."
+        ]
+      }
+    ]
+  },
+  "303": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 23,
+        "examples": [
+          "-1000",
+          "-110",
+          "-120",
+          "-130",
+          "-150",
+          "-1500",
+          "-160",
+          "-200",
+          "-225",
+          "-250"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "1.5",
+          "2.1",
+          "2.5",
+          "2.8",
+          "3.5",
+          "31.5"
+        ]
+      }
+    ]
+  },
+  "305": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "-15",
+          "-25",
+          "-30",
+          "-40",
+          "-45",
+          "-50",
+          "-60"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-155.",
+          "-156.",
+          "0.",
+          "0.1",
+          "0.10",
+          "0.15",
+          "0.2",
+          "0.3",
+          "0.30",
+          "0.5"
+        ]
+      }
+    ]
+  },
+  "306": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.01",
+          "0.1",
+          "0.150",
+          "0.5",
+          "0.50",
+          "0.9",
+          "0.95",
+          "0.99",
+          "1.2",
+          "1.5"
+        ]
+      }
+    ]
+  },
+  "307": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "1.0",
+          "1.1",
+          "1.5"
+        ]
+      }
+    ]
+  },
+  "308": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.01",
+          "0.03",
+          "0.04",
+          "0.05",
+          "0.1",
+          "0.3",
+          "0.5",
+          "11169.1",
+          "11169.2",
+          "31.5"
+        ]
+      }
+    ]
+  },
+  "309": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 32,
+        "examples": [
+          "0.",
+          "0.02",
+          "0.0421",
+          "0.0491",
+          "0.0628",
+          "0.0779",
+          "0.0981",
+          "0.1256",
+          "0.1558",
+          "0.1590"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-161.",
+          "0.0218",
+          "0.025",
+          "0.0252",
+          "0.03",
+          "0.042",
+          "0.049",
+          "0.05",
+          "0.06",
+          "0.063"
+        ]
+      }
+    ]
+  },
+  "310": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-162.",
+          "11169.1",
+          "1169.1"
+        ]
+      }
+    ]
+  },
+  "311": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.",
+          "0.5",
+          "0.8",
+          "1.0",
+          "1.5",
+          "1169.1"
+        ]
+      }
+    ]
+  },
+  "312": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 27,
+        "examples": [
+          "-100",
+          "-110",
+          "-1200",
+          "-130",
+          "-135",
+          "-150",
+          "-180",
+          "-185",
+          "-200",
+          "-235"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "1.5",
+          "2.5",
+          "3.5",
+          "4.0",
+          "4.5",
+          "6.0",
+          "7.0"
+        ]
+      }
+    ]
+  },
+  "313": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 4,
+        "examples": [
+          "21",
+          "42",
+          "500",
+          "70"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.3",
+          "0.5",
+          "1.5",
+          "3.5",
+          "6.3"
+        ]
+      }
+    ]
+  },
+  "314": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "0.625",
+          "1.0",
+          "1.5",
+          "1.750",
+          "4.0",
+          "6.3"
+        ]
+      }
+    ]
+  },
+  "315": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "0.3",
+          "0.5",
+          "0.8",
+          "1.0",
+          "1.5",
+          "15.000",
+          "2.0",
+          "35",
+          "4.0",
+          "45"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.125",
+          "0.250",
+          "0.37",
+          "0.516",
+          "0.53",
+          "0.535",
+          "0.54",
+          "0.55",
+          "0.57",
+          "0.750"
+        ]
+      }
+    ]
+  },
+  "316": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "1300",
+          "1500",
+          "505.7"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.375",
+          "0.5",
+          "0.625",
+          "1.0",
+          "1.2",
+          "15.000",
+          "31.5",
+          "4.0",
+          "5.0",
+          "5.000"
+        ]
+      }
+    ]
+  },
+  "317": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 20,
+        "examples": [
+          "-0.5",
+          "-1.0",
+          "-1.5",
+          "-1000",
+          "-120",
+          "-1300",
+          "-140",
+          "-145",
+          "-200",
+          "-230"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.04",
+          "0.05",
+          "0.1",
+          "0.15",
+          "0.5",
+          "1.0",
+          "1.5",
+          "1.55",
+          "1.6",
+          "11.2"
+        ]
+      }
+    ]
+  },
+  "318": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 24,
+        "examples": [
+          "-0.8",
+          "-1.0",
+          "-1.5",
+          "-110",
+          "-12",
+          "-120",
+          "-1250",
+          "-150",
+          "-171",
+          "-180"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.01",
+          "0.04",
+          "0.1",
+          "0.15",
+          "0.5",
+          "0.54",
+          "0.6",
+          "0.8",
+          "1.0",
+          "1.02"
+        ]
+      }
+    ]
+  },
+  "319": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 13,
+        "examples": [
+          "0.1",
+          "0.5",
+          "0214",
+          "0216",
+          "1.2",
+          "21",
+          "22",
+          "23",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.11",
+          "0.15",
+          "0.51",
+          "0.52",
+          "0.54",
+          "0.55",
+          "0.56",
+          "1.27",
+          "1.5",
+          "1.53"
+        ]
+      }
+    ]
+  },
+  "320": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.51",
+          "0.52",
+          "0.53",
+          "0.54",
+          "0.55",
+          "0.56",
+          "1.54",
+          "20.4"
+        ]
+      }
+    ]
+  },
+  "321": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 8,
+        "examples": [
+          "-900",
+          "004112",
+          "1050",
+          "1300",
+          "1450",
+          "1626",
+          "22",
+          "292"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.6",
+          "14.8",
+          "24.4",
+          "24.5",
+          "3.9",
+          "34.5",
+          "39.5",
+          "5.5",
+          "7.5",
+          "9.5"
+        ]
+      }
+    ]
+  },
+  "325": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "p_cm = [A₁p₁s₁ + (1/2) × (C/g) × v₀² + Rs₁] × 10⁻⁶ / As (MPa) (2-61)",
+        "vlm_vars": [
+          "p_cm"
+        ],
+        "trinity_vars": [
+          "V",
+          "a",
+          "a0",
+          "am",
+          "d",
+          "m",
+          "x"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "p_cmax = [A₁p₁s₁ + (v₀²/g) × Rs₁] × 10⁻⁶ / As (MPa) (2-62)",
+        "vlm_vars": [
+          "p_cmax"
+        ],
+        "trinity_vars": [
+          "V",
+          "a",
+          "a0",
+          "am",
+          "d",
+          "m",
+          "x"
+        ]
+      }
+    ]
+  },
+  "326": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 14,
+        "examples": [
+          "110",
+          "1140",
+          "1800",
+          "190",
+          "2270",
+          "240",
+          "2780",
+          "310",
+          "3100",
+          "3500"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.1",
+          "1.9",
+          "2.4",
+          "3.1",
+          "3.6",
+          "4.",
+          "5.6",
+          "6.7"
+        ]
+      }
+    ]
+  },
+  "327": {
+    "severity": 3,
+    "conflicts": [
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "p_r = p_mm = [A_i ρ_i s_i + (1/2) × C/(k) × ±R_c)] × 10⁻⁶ / A_s",
+        "vlm_vars": [
+          "p_mm",
+          "p_r"
+        ],
+        "trinity_vars": [
+          "Ai",
+          "Q",
+          "a",
+          "am",
+          "pc",
+          "pcm",
+          "s",
+          "tc",
+          "vi"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "t_c = 2x_c/v_m (s)",
+        "vlm_vars": [
+          "t_c"
+        ],
+        "trinity_vars": [
+          "Ai",
+          "Q",
+          "a",
+          "am",
+          "pc",
+          "pcm",
+          "s",
+          "tc",
+          "vi"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "A_i = (A√γ)/(C_d √(2gΔp×10⁶)) × v_i",
+        "vlm_vars": [
+          "A_i"
+        ],
+        "trinity_vars": [
+          "Ai",
+          "Q",
+          "a",
+          "am",
+          "pc",
+          "pcm",
+          "s",
+          "tc",
+          "vi"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "A_i = (A√ρ)/(C_d √(2Δp×10⁶)) × v_i",
+        "vlm_vars": [
+          "A_i"
+        ],
+        "trinity_vars": [
+          "Ai",
+          "Q",
+          "a",
+          "am",
+          "pc",
+          "pcm",
+          "s",
+          "tc",
+          "vi"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "v_i = v₀ × √(s_c - s)/√s_c",
+        "vlm_vars": [
+          "v_i"
+        ],
+        "trinity_vars": [
+          "Ai",
+          "Q",
+          "a",
+          "am",
+          "pc",
+          "pcm",
+          "s",
+          "tc",
+          "vi"
+        ]
+      },
+      {
+        "type": "formula_variable_mismatch",
+        "vlm_formula": "A_i = (A_i v₀ρ)/(C_d √(2Δp×10⁶)) × √(s_c - s)/√s_c",
+        "vlm_vars": [
+          "A_i"
+        ],
+        "trinity_vars": [
+          "Ai",
+          "Q",
+          "a",
+          "am",
+          "pc",
+          "pcm",
+          "s",
+          "tc",
+          "vi"
+        ]
+      }
+    ]
+  },
+  "328": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "100",
+          "1000",
+          "2.5",
+          "25",
+          "2500",
+          "600",
+          "800"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-192.",
+          "2.13",
+          "3.",
+          "5.",
+          "7."
+        ]
+      }
+    ]
+  },
+  "329": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.005",
+          "0.01",
+          "0.015",
+          "0.02",
+          "0.025",
+          "0.03",
+          "0.04",
+          "0.05",
+          "0.06",
+          "0.1"
+        ]
+      }
+    ]
+  },
+  "330": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "0.010",
+          "0.10",
+          "0.20"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-193.",
+          "-194.",
+          "0.002",
+          "0.005",
+          "0.01",
+          "0.02",
+          "0.025",
+          "0.03",
+          "0.04",
+          "0.05"
+        ]
+      }
+    ]
+  },
+  "331": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-195.",
+          "-201.",
+          "0.02",
+          "0.04",
+          "0.05",
+          "0.08",
+          "0.10",
+          "0.12",
+          "0.20",
+          "0.30"
+        ]
+      }
+    ]
+  },
+  "332": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 26,
+        "examples": [
+          "-1000",
+          "-1500",
+          "-3500",
+          "-500",
+          "0.002",
+          "0.004",
+          "0.008",
+          "0.012",
+          "0.025",
+          "0.03"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-201.",
+          "-202.",
+          "-203.",
+          "-204.",
+          "-22.",
+          "-23.",
+          "-24.",
+          "-25.",
+          "-26.",
+          "-27."
+        ]
+      }
+    ]
+  },
+  "333": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "0.15",
+          "0.153",
+          "1.",
+          "1.2",
+          "2.",
+          "22.3"
+        ]
+      }
+    ]
+  },
+  "334": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "2.13",
+          "3.5"
+        ]
+      }
+    ]
+  },
+  "336": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.0285",
+          "2.1",
+          "2.13",
+          "3.7"
+        ]
+      }
+    ]
+  },
+  "338": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 31,
+        "examples": [
+          "108",
+          "110",
+          "115",
+          "118",
+          "125",
+          "130",
+          "140",
+          "147",
+          "162",
+          "186"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.005",
+          "0.02",
+          "0.05",
+          "0.1",
+          "1.5"
+        ]
+      }
+    ]
+  },
+  "339": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 19,
+        "examples": [
+          "1.5",
+          "106",
+          "112",
+          "130",
+          "134",
+          "144",
+          "160",
+          "170",
+          "172",
+          "190"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-216.",
+          "0.005",
+          "0.02",
+          "0.05",
+          "0.1",
+          "0.5",
+          "1.52"
+        ]
+      }
+    ]
+  },
+  "340": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 5,
+        "examples": [
+          "-10",
+          "-20",
+          "-300",
+          "-7520",
+          "0008"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-220.",
+          "-223.",
+          "0.02",
+          "0.025",
+          "0.05",
+          "1.3952",
+          "1.4571",
+          "1.5",
+          "10.2"
+        ]
+      }
+    ]
+  },
+  "341": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.01",
+          "0.02",
+          "0.33",
+          "0.5",
+          "0.66",
+          "10.2"
+        ]
+      }
+    ]
+  },
+  "342": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.5",
+          "1.5",
+          "30.0",
+          "50.0",
+          "6."
+        ]
+      },
+      {
+        "type": "trinity_much_shorter",
+        "vlm_chars": 1774,
+        "trinity_chars": 702,
+        "ratio": 2.53
+      }
+    ]
+  },
+  "343": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.10",
+          "0.2",
+          "0.20",
+          "12.",
+          "13.5",
+          "15.5",
+          "18.5",
+          "19.8",
+          "20.6",
+          "22.5"
+        ]
+      }
+    ]
+  },
+  "344": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "0.05",
+          "0.06",
+          "0.07",
+          "0.1",
+          "171",
+          "203",
+          "304",
+          "375",
+          "406",
+          "415"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.01",
+          "0.04",
+          "0.10",
+          "050.04",
+          "060.050",
+          "10.070",
+          "5."
+        ]
+      }
+    ]
+  },
+  "345": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.4",
+          "0.5",
+          "0.75",
+          "1.2",
+          "1.5",
+          "11.5",
+          "19.5",
+          "2.5",
+          "3.6",
+          "31.5"
+        ]
+      }
+    ]
+  },
+  "346": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 4,
+        "examples": [
+          "130654",
+          "149621",
+          "150229",
+          "642827"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.7",
+          "1.78",
+          "1.8",
+          "12.2",
+          "12.42",
+          "16.5",
+          "6.75"
+        ]
+      }
+    ]
+  },
+  "347": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "1.",
+          "15.6",
+          "16.5",
+          "25.5",
+          "3.8",
+          "4.1",
+          "6.6"
+        ]
+      },
+      {
+        "type": "trinity_much_shorter",
+        "vlm_chars": 1994,
+        "trinity_chars": 338,
+        "ratio": 5.9
+      }
+    ]
+  },
+  "348": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 6,
+        "examples": [
+          "13.",
+          "18.",
+          "23",
+          "26",
+          "37",
+          "60"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.04",
+          "0.05",
+          "0.1",
+          "1.5",
+          "2.1",
+          "2.14",
+          "4.1"
+        ]
+      }
+    ]
+  },
+  "349": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 11,
+        "examples": [
+          "-20",
+          "-229.",
+          "-6",
+          "-8",
+          "13.",
+          "25.4",
+          "48",
+          "51",
+          "59",
+          "60"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "1.5",
+          "18.5",
+          "19.6",
+          "2.1",
+          "2.14",
+          "45.",
+          "5.4",
+          "6.75",
+          "8.5"
+        ]
+      }
+    ]
+  },
+  "350": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "2.14",
+          "4.3"
+        ]
+      }
+    ]
+  },
+  "352": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-4.9",
+          "0.",
+          "4.1",
+          "4.10",
+          "4.9"
+        ]
+      }
+    ]
+  },
+  "356": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "5.",
+          "6.",
+          "7.",
+          "9."
+        ]
+      }
+    ]
+  },
+  "358": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 11,
+        "examples": [
+          "100",
+          "120",
+          "140",
+          "180",
+          "200",
+          "220",
+          "250",
+          "300",
+          "350",
+          "400"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-232.",
+          "-233.",
+          "1.",
+          "2.",
+          "31.5",
+          "6.3"
+        ]
+      }
+    ]
+  },
+  "359": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-235.",
+          "1.5",
+          "1482.",
+          "2.5",
+          "3.5"
+        ]
+      }
+    ]
+  },
+  "360": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-231.",
+          "0.6",
+          "94.3"
+        ]
+      }
+    ]
+  },
+  "362": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1000.",
+          "2.",
+          "40."
+        ]
+      }
+    ]
+  },
+  "363": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "2.14",
+          "2331.",
+          "4.5"
+        ]
+      }
+    ]
+  },
+  "364": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-0.30",
+          "0.30",
+          "2.1",
+          "2.14",
+          "2.15",
+          "2331.",
+          "4.6",
+          "5.1"
+        ]
+      }
+    ]
+  },
+  "366": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "2.1",
+          "2.15",
+          "5.2"
+        ]
+      }
+    ]
+  },
+  "367": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 4,
+        "examples": [
+          "150",
+          "25.5",
+          "28",
+          "56"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-248.",
+          "1.25",
+          "1.5",
+          "5.5"
+        ]
+      }
+    ]
+  },
+  "368": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 96,
+        "examples": [
+          "1.5",
+          "100",
+          "102",
+          "106",
+          "108",
+          "111",
+          "112",
+          "115",
+          "116",
+          "117"
+        ]
+      }
+    ]
+  },
+  "369": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 88,
+        "examples": [
+          "100",
+          "105",
+          "106",
+          "110",
+          "115",
+          "116.4",
+          "120",
+          "125",
+          "13.5",
+          "130"
+        ]
+      }
+    ]
+  },
+  "370": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 51,
+        "examples": [
+          "100",
+          "106",
+          "115",
+          "125",
+          "126",
+          "13.5",
+          "132",
+          "145",
+          "150",
+          "160"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "13.514",
+          "17.516",
+          "6.675",
+          "95.3"
+        ]
+      }
+    ]
+  },
+  "371": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 49,
+        "examples": [
+          "100",
+          "102",
+          "125",
+          "160",
+          "178",
+          "206",
+          "231",
+          "25",
+          "257",
+          "289"
+        ]
+      }
+    ]
+  },
+  "372": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 84,
+        "examples": [
+          "100",
+          "110",
+          "112",
+          "116",
+          "1185",
+          "120",
+          "1210",
+          "125",
+          "130",
+          "135"
+        ]
+      }
+    ]
+  },
+  "373": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 95,
+        "examples": [
+          "100",
+          "105",
+          "110",
+          "114",
+          "119",
+          "120",
+          "122",
+          "125",
+          "133",
+          "135"
+        ]
+      }
+    ]
+  },
+  "375": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "12.7",
+          "19.1",
+          "25",
+          "25.4",
+          "31.8",
+          "32",
+          "38"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1312.7",
+          "17.5",
+          "22.3",
+          "2525.4",
+          "26.2",
+          "29.7",
+          "30.2",
+          "3231.8",
+          "35.4",
+          "35.7"
+        ]
+      }
+    ]
+  },
+  "376": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.0",
+          "1.5",
+          "10.0",
+          "2.0",
+          "2.5",
+          "235.",
+          "3.0",
+          "4.0",
+          "5.0",
+          "6.0"
+        ]
+      }
+    ]
+  },
+  "377": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 41,
+        "examples": [
+          "1.25",
+          "1.5",
+          "100",
+          "101",
+          "110",
+          "115",
+          "120",
+          "130",
+          "145",
+          "22"
+        ]
+      }
+    ]
+  },
+  "378": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 33,
+        "examples": [
+          "1.5",
+          "100",
+          "108",
+          "110",
+          "112",
+          "117",
+          "123",
+          "125",
+          "130",
+          "140"
+        ]
+      }
+    ]
+  },
+  "379": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 73,
+        "examples": [
+          "1.5",
+          "100",
+          "105",
+          "106",
+          "117",
+          "121",
+          "126",
+          "135",
+          "137",
+          "149"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.51051452413816254",
+          "1.51171486548382029",
+          "1.51491883514520294",
+          "1.555",
+          "1.558",
+          "1.5871135381022"
+        ]
+      }
+    ]
+  },
+  "380": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 88,
+        "examples": [
+          "1.5",
+          "100",
+          "105",
+          "106",
+          "110",
+          "114",
+          "115",
+          "117",
+          "120",
+          "125"
+        ]
+      }
+    ]
+  },
+  "381": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 62,
+        "examples": [
+          "100",
+          "103",
+          "110",
+          "113",
+          "123",
+          "125",
+          "127",
+          "133",
+          "140",
+          "143"
+        ]
+      }
+    ]
+  },
+  "382": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 61,
+        "examples": [
+          "-0.008",
+          "-0.012",
+          "-0.015",
+          "-0.020",
+          "-0.12",
+          "-0.15",
+          "-0.20",
+          "100",
+          "106",
+          "110"
+        ]
+      }
+    ]
+  },
+  "383": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 92,
+        "examples": [
+          "100",
+          "102",
+          "104",
+          "110",
+          "114.5",
+          "119",
+          "121",
+          "122",
+          "125",
+          "128"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.5",
+          "12.5",
+          "124.5",
+          "164.5",
+          "1828.5",
+          "184.5",
+          "203.5",
+          "295.5",
+          "296.5",
+          "474.5"
+        ]
+      }
+    ]
+  },
+  "384": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 81,
+        "examples": [
+          "100",
+          "101",
+          "110",
+          "114",
+          "115",
+          "116",
+          "120",
+          "121",
+          "125",
+          "127"
+        ]
+      }
+    ]
+  },
+  "385": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 32,
+        "examples": [
+          "104",
+          "107",
+          "109",
+          "117",
+          "121",
+          "124",
+          "130",
+          "137",
+          "144",
+          "147"
+        ]
+      }
+    ]
+  },
+  "386": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 48,
+        "examples": [
+          "109.6",
+          "114",
+          "115",
+          "117",
+          "125.9",
+          "128",
+          "137",
+          "138.6",
+          "153",
+          "154.9"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.8",
+          "1.25",
+          "1.3",
+          "1.5",
+          "5109.6",
+          "5125.9",
+          "5138.6",
+          "5154.9",
+          "5174.0",
+          "5190.2"
+        ]
+      }
+    ]
+  },
+  "387": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 37,
+        "examples": [
+          "109.6",
+          "115",
+          "125.9",
+          "138.6",
+          "153",
+          "154.9",
+          "159",
+          "168",
+          "173.9",
+          "190"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.8",
+          "1.25",
+          "1.5",
+          "190.8",
+          "197.9",
+          "2.1",
+          "203.9",
+          "226.1",
+          "232.1",
+          "240.1"
+        ]
+      }
+    ]
+  },
+  "388": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 58,
+        "examples": [
+          "0.8",
+          "1.25",
+          "1.5",
+          "109.6",
+          "114",
+          "115",
+          "120",
+          "121",
+          "125.9",
+          "138.6"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-263.",
+          "0.521",
+          "0.81915114",
+          "1.2564625",
+          "1.2564632",
+          "1.55933119",
+          "1.55933520",
+          "1.57531526",
+          "1.58131532",
+          "1.58631324"
+        ]
+      }
+    ]
+  },
+  "389": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "23",
+          "25.6",
+          "26.2",
+          "30.2",
+          "3150",
+          "32.0",
+          "52.4",
+          "58.7",
+          "8000"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-1.5",
+          "1.5",
+          "1.511",
+          "1.514",
+          "1.57",
+          "2.0",
+          "223251225.62626",
+          "252.4",
+          "258.7",
+          "3.0"
+        ]
+      }
+    ]
+  },
+  "390": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 48,
+        "examples": [
+          "101",
+          "102",
+          "106",
+          "112",
+          "120",
+          "127",
+          "133",
+          "134",
+          "143",
+          "145"
+        ]
+      }
+    ]
+  },
+  "391": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 43,
+        "examples": [
+          "120",
+          "145",
+          "185",
+          "215",
+          "235",
+          "240",
+          "244",
+          "260",
+          "265",
+          "274"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "13.5",
+          "17.5",
+          "22.5"
+        ]
+      }
+    ]
+  },
+  "392": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 15,
+        "examples": [
+          "1072",
+          "1080",
+          "305",
+          "348",
+          "395",
+          "419",
+          "442",
+          "468",
+          "520",
+          "580"
+        ]
+      }
+    ]
+  },
+  "393": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 62,
+        "examples": [
+          "100",
+          "110",
+          "112",
+          "125",
+          "129",
+          "13.5",
+          "130",
+          "135.5",
+          "140",
+          "149"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "140907026.5",
+          "200125330.5",
+          "6315449274415018313.51295642",
+          "8017.552305180220017",
+          "90606016.5",
+          "9180563171954024019.51657852"
+        ]
+      }
+    ]
+  },
+  "394": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 99,
+        "examples": [
+          "1.5",
+          "100",
+          "102",
+          "105",
+          "110",
+          "112",
+          "115",
+          "124",
+          "125",
+          "135"
+        ]
+      }
+    ]
+  },
+  "395": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 34,
+        "examples": [
+          "1.5",
+          "110",
+          "1250",
+          "140",
+          "160",
+          "17.5",
+          "180",
+          "19.2",
+          "2.0",
+          "22.3"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-126.",
+          "0.25",
+          "1.",
+          "2.1",
+          "2.15",
+          "5.6"
+        ]
+      }
+    ]
+  },
+  "397": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 63,
+        "examples": [
+          "100",
+          "110",
+          "112",
+          "113",
+          "120",
+          "125",
+          "126",
+          "128",
+          "130",
+          "135"
+        ]
+      }
+    ]
+  },
+  "398": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "113",
+          "162",
+          "202",
+          "252",
+          "256",
+          "310",
+          "332",
+          "390",
+          "530"
+        ]
+      }
+    ]
+  },
+  "399": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 11,
+        "examples": [
+          "105",
+          "120",
+          "135",
+          "195",
+          "34",
+          "43",
+          "51",
+          "64",
+          "68",
+          "720"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1012.5",
+          "124.5",
+          "13.5",
+          "17.5",
+          "4.5",
+          "5.5",
+          "7.0",
+          "72.0",
+          "84.0",
+          "9.0"
+        ]
+      }
+    ]
+  },
+  "400": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 49,
+        "examples": [
+          "100",
+          "112",
+          "121",
+          "125",
+          "127",
+          "130",
+          "146",
+          "150",
+          "155",
+          "159"
+        ]
+      }
+    ]
+  },
+  "401": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 75,
+        "examples": [
+          "102",
+          "105",
+          "106",
+          "115",
+          "120",
+          "121",
+          "124",
+          "130",
+          "135",
+          "136"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.5",
+          "17.5",
+          "2.5",
+          "3.5",
+          "4.5",
+          "7.5"
+        ]
+      }
+    ]
+  },
+  "402": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 91,
+        "examples": [
+          "1.5",
+          "100",
+          "102",
+          "105",
+          "106",
+          "110",
+          "115",
+          "120",
+          "121",
+          "125"
+        ]
+      }
+    ]
+  },
+  "403": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 64,
+        "examples": [
+          "100",
+          "105",
+          "106",
+          "110",
+          "115",
+          "120",
+          "121",
+          "125",
+          "13.5",
+          "135"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-288.",
+          "-289.",
+          "1."
+        ]
+      }
+    ]
+  },
+  "404": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 46,
+        "examples": [
+          "102",
+          "104",
+          "121",
+          "130",
+          "132.5",
+          "135",
+          "150",
+          "157",
+          "165",
+          "168"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.5",
+          "2.",
+          "2.10",
+          "2.12",
+          "2.15",
+          "2.4",
+          "2.5",
+          "2.69",
+          "2.76",
+          "2.81"
+        ]
+      }
+    ]
+  },
+  "405": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 95,
+        "examples": [
+          "102",
+          "104",
+          "105",
+          "108",
+          "111",
+          "115",
+          "120",
+          "121",
+          "126",
+          "129"
+        ]
+      }
+    ]
+  },
+  "406": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 35,
+        "examples": [
+          "114",
+          "123",
+          "124",
+          "134",
+          "145",
+          "167",
+          "222",
+          "230",
+          "231",
+          "243"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.5",
+          "107.5",
+          "137.5",
+          "167.5",
+          "2.57",
+          "2.58",
+          "4.",
+          "63.5"
+        ]
+      }
+    ]
+  },
+  "407": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 124,
+        "examples": [
+          "1.5",
+          "100",
+          "1018",
+          "102",
+          "104",
+          "105",
+          "108",
+          "115",
+          "120",
+          "121"
+        ]
+      }
+    ]
+  },
+  "408": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 26,
+        "examples": [
+          "102",
+          "104",
+          "105",
+          "120",
+          "121",
+          "135",
+          "137",
+          "152",
+          "165",
+          "168"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.10",
+          "1.5",
+          "17.5",
+          "22.75",
+          "63.5"
+        ]
+      }
+    ]
+  },
+  "409": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 28,
+        "examples": [
+          "1000",
+          "110",
+          "1120",
+          "11500",
+          "1220",
+          "1230",
+          "1250",
+          "1330",
+          "140",
+          "1430"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "3.5",
+          "47.111",
+          "57.114"
+        ]
+      }
+    ]
+  },
+  "410": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 47,
+        "examples": [
+          "100",
+          "1080",
+          "110",
+          "1125",
+          "1160",
+          "1180",
+          "1200",
+          "1230",
+          "1300",
+          "1310"
+        ]
+      }
+    ]
+  },
+  "411": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 8,
+        "examples": [
+          "2160",
+          "2360",
+          "2635",
+          "2795",
+          "2960",
+          "3230",
+          "3600",
+          "4300"
+        ]
+      }
+    ]
+  },
+  "412": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "22",
+          "26",
+          "33"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-2.160",
+          "-2.311",
+          "-311.",
+          "2.153",
+          "2.304"
+        ]
+      }
+    ]
+  },
+  "413": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 82,
+        "examples": [
+          "100",
+          "105",
+          "110",
+          "115",
+          "117",
+          "120",
+          "125",
+          "126",
+          "130",
+          "140"
+        ]
+      }
+    ]
+  },
+  "414": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 56,
+        "examples": [
+          "100",
+          "110",
+          "116",
+          "120",
+          "140",
+          "184",
+          "190",
+          "191",
+          "200",
+          "206"
+        ]
+      }
+    ]
+  },
+  "415": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 71,
+        "examples": [
+          "100",
+          "101",
+          "102",
+          "103",
+          "105",
+          "110",
+          "114",
+          "116",
+          "12.5",
+          "122"
+        ]
+      }
+    ]
+  },
+  "416": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 42,
+        "examples": [
+          "108",
+          "110",
+          "117",
+          "127",
+          "129",
+          "132",
+          "140",
+          "141",
+          "147",
+          "150"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-312.",
+          "1071171321471581.81",
+          "1081291501191121.82",
+          "44.39",
+          "62.9",
+          "70889812.714116",
+          "72.83",
+          "768911.21271411",
+          "81521527.9",
+          "82.052"
+        ]
+      }
+    ]
+  },
+  "417": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-16.1",
+          "-314.",
+          "1.",
+          "2.16",
+          "2.313",
+          "2.314"
+        ]
+      }
+    ]
+  },
+  "418": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 3,
+        "examples": [
+          "15.1",
+          "16.9",
+          "22"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-315.",
+          "1.25",
+          "1.5",
+          "1.75",
+          "10.9",
+          "11.57",
+          "12.9",
+          "13.57",
+          "15.11",
+          "15.57"
+        ]
+      }
+    ]
+  },
+  "419": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 106,
+        "examples": [
+          "0.110",
+          "0.121",
+          "0.123",
+          "0.132",
+          "0.134",
+          "0.136",
+          "0.145",
+          "0.147",
+          "0.148",
+          "0.155"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.03",
+          "0.04",
+          "0.05",
+          "0.06",
+          "0.07",
+          "0.08",
+          "0.09",
+          "0.10",
+          "0.11",
+          "0.12"
+        ]
+      }
+    ]
+  },
+  "420": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-318.",
+          "-319.",
+          "17.5",
+          "2.1",
+          "2.15",
+          "2.162",
+          "2.163",
+          "2.318",
+          "2.319",
+          "5.9"
+        ]
+      }
+    ]
+  },
+  "422": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 7,
+        "examples": [
+          "1.6",
+          "11.5",
+          "12.5",
+          "15.5",
+          "35.4",
+          "41.5",
+          "7.5"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.10",
+          "0.20",
+          "1.0",
+          "1.5",
+          "11.1",
+          "11.6",
+          "13.8",
+          "14.5",
+          "15.8",
+          "17.5"
+        ]
+      }
+    ]
+  },
+  "423": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 9,
+        "examples": [
+          "24",
+          "25",
+          "28",
+          "30",
+          "36",
+          "4.5",
+          "41",
+          "51",
+          "56"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "0.1",
+          "0.2",
+          "0.3",
+          "1.5",
+          "13.2",
+          "16.7",
+          "2.5",
+          "26.5",
+          "33.3",
+          "4.51"
+        ]
+      }
+    ]
+  },
+  "424": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 6,
+        "examples": [
+          "0.1",
+          "0.2",
+          "0.3",
+          "41",
+          "51",
+          "56"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-323.",
+          "1.5",
+          "11.5",
+          "19.6",
+          "2.5",
+          "21.9",
+          "25.4",
+          "27.7",
+          "31.2",
+          "34.6"
+        ]
+      }
+    ]
+  },
+  "425": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 18,
+        "examples": [
+          "2.5",
+          "33",
+          "41",
+          "42",
+          "43",
+          "47.3",
+          "48",
+          "51",
+          "52",
+          "53"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-31.5",
+          "-323.",
+          "7."
+        ]
+      }
+    ]
+  },
+  "426": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "3836.1",
+          "6.1",
+          "6.2"
+        ]
+      }
+    ]
+  },
+  "427": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 4,
+        "examples": [
+          "1169.1",
+          "44",
+          "460",
+          "900"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "1.2",
+          "2.16",
+          "5.",
+          "6.1",
+          "6.2"
+        ]
+      }
+    ]
+  },
+  "428": {
+    "severity": 2,
+    "conflicts": [
+      {
+        "type": "table_data_mismatch",
+        "detail": "VLM table values not found in Trinity",
+        "count": 11,
+        "examples": [
+          "0.2",
+          "0.25",
+          "0.5",
+          "1.0",
+          "2.0",
+          "2.5",
+          "2.6",
+          "3.1",
+          "3.6",
+          "4.8"
+        ]
+      },
+      {
+        "type": "numeric_text_mismatch",
+        "decimal_diffs": [
+          "-325.",
+          "-326.",
+          "-327.",
+          "0.",
+          "0.3",
+          "0.4",
+          "0.6",
+          "0.8",
+          "1.2",
+          "1.5"
+        ]
+      }
+    ]
+  }
+}

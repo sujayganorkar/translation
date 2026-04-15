@@ -1,0 +1,273 @@
+{
+  "results": {
+    "810": {
+      "page_type": "text",
+      "page_header": "Chapter 5  Test Methods for Hydraulic Cylinders",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "the shock response spectrum as the preferred method. During shock testing, the acceleration input of the measured environment and equipment can generally be used, or the acceleration, velocity, displacement, strain, stress, or force of other measurement equipment can also be measured."
+        },
+        {
+          "type": "paragraph",
+          "text": "Generally, if the system has sufficiently good linearity requirements, when conducting any sufficiently rigorous random vibration test procedure, there is no need to arrange these axial directions to conduct any shock test sequence. If the national standard-specified equipment needs to undergo random vibration tests and shock tests, the standard-specified random vibration excitation spectrum shall be a single-degree-of-freedom 3σ acceleration shock response spectrum. At the designated frequency, the spectrum value at each frequency shall not be less than the maximum value of the shock response spectrum obtained from the actually measured random vibration excitation. This is a standard for a single test level. For the highest level of random vibration excitation representing relatively few occurrences in the spectrum, which is used for the shock response spectrum analysis of Q equal to 10, with a tolerance of 5%, the critical damping characteristic is used. The 3σ shock response spectrum of the random vibration test equipment shall be expressed as the undamped natural frequency of the single-degree-of-freedom system, which can be calculated by formula (5-2):"
+        },
+        {
+          "type": "formula",
+          "text": "A(f) = 3 * sqrt(π/2 * G(f) * f * Q)  ... (5-2)"
+        },
+        {
+          "type": "paragraph",
+          "text": "where A(f) — acceleration shock response spectrum value at frequency f; G(f) — acceleration power spectral density value at frequency f."
+        },
+        {
+          "type": "paragraph",
+          "text": "The relationship between the shock response spectrum of GJB 150.18A-2009 Annex D and the corresponding acceleration spectral density and shock response spectrum magnitude."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2) Determining the shock response spectrum and effective duration of the test"
+        },
+        {
+          "type": "paragraph",
+          "text": "① Overview. Based on the measured data of the equipment's working environment, the random vibration environment measured data and the extracted data, or the comprehensive statistical processing of these three types of data, the shock SRS and effective duration T are determined (see GJB 150.18A-2009 Annex)."
+        },
+        {
+          "type": "paragraph",
+          "text": "②. For ease of use, the response should be measured in the equipment storage (chamber), and the shock input amount and the shock SRS and effective duration T should be derived under the conditions of using environmental-related measured data. The number of data extracted and the applicable test methods are:"
+        },
+        {
+          "type": "paragraph",
+          "text": "a) For measured data, controlled by waveform method, through pulse shape to actually implement shock testing."
+        },
+        {
+          "type": "paragraph",
+          "text": "b) For measured data, by passing through a complex conjugate filter to synthesize the shock waveform, the effective duration T of this shock and the actual shock effective duration T are maintained, with duration T being the same, the waveform is similar in shape, and peak, trough and zero-crossing points are correlated."
+        },
+        {
+          "type": "paragraph",
+          "text": "c) Without measured data, but based on the shock response spectrum estimates, the shock waveform can be synthesized through complex conjugate filter superposition. The effective duration T determination should also take into account the equipment's inherent pulse characteristics."
+        },
+        {
+          "type": "paragraph",
+          "text": "d) Without measured data, the classic pulse shock waveform can be used to replicate the shock. Only when analysis cannot confirm that this pulse is a composite pulse can the classic pulse be used."
+        },
+        {
+          "type": "paragraph",
+          "text": "② With measured data, the effective duration T of the test is passed through the time history analysis of the typical shock time history, T, starting from the first significant point on the time history, consistently using the time history analysis method until reaching the base noise level in the time domain or frequency domain system. The effective duration T is: T < 1/2f (where f is the lowest shock response spectrum frequency required). If the effective duration T of the test can be extended to T/2f, at least in the 5-2000Hz range, taking Q = 10, at 1/12 octave frequency intervals or smaller time intervals, using the time history for shock response spectrum analysis, following the requirements below:"
+        },
+        {
+          "type": "paragraph",
+          "text": "a) When there is a sufficiently representative number of shock response spectrum data, the test should use the appropriate statistical calculation methods and techniques to determine the required effective duration (see GJB 150.18A-2009 Annex B). The effective duration of the test T is 1/2f, and the two values are relatively close."
+        },
+        {
+          "type": "paragraph",
+          "text": "b) When there is not enough data to use statistical methods, considering the reliability of shock environment, an engineering approach with non-deterministic reliability methods should be used. Based on the engineering judgment, increasing the appropriate margin at the required locations to determine the required test conditions according to the confidence and reliability level requirements (see GJB 150.18A-2009 Section 4.2), the derived shock response spectrum should include an additional 3 dB or 6 dB margin, with the effective duration T of the test being 1/2f, and the two values are relatively close."
+        },
+        {
+          "type": "paragraph",
+          "text": "③ Without measured data. When there is no measured data, for Procedure I (functional testing) and other purposes, a suitable composition for each individual test in GJB 150.18A-2009 Figure 1 should be used, with the effective duration T being the duration of the composition in Table 5-35. GJB 150.18A-2009 Section 1 specifies the shock response spectrum synthesis method as follows: one is to use a finite number of specified synthesized positive half-sine (wave) compositions. Additionally, this method's shock response waveform composition method includes two types: one is a finite number of specified synthesized positive half-sine (wave) compositions, applied sequentially. The T provided by Table 5-35 is the maximum value, and the pulse shock duration is in the 5-20000Hz frequency half-period range or less. GJB 150.18A-2009 Section 1 specifies that the requirements are met, and the method can be adopted as the shock waveform. After the classical waveform is used, the trapezoidal and sawtooth waveforms should be selected according to the measured data situation to minimize acceptable choices."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the measurement equipment specifies the conditions of the vibration test and additional requirements for random shock test conditions, the determination needs to be further evaluated."
+        }
+      ]
+    },
+    "815": {
+      "page_type": "text",
+      "page_header": "Hydraulic Cylinder Handbook",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "can be interrupted. This is closely related to the equipment functional test requirements. This information is also helpful for evaluating test results."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2) Procedure II — Packaged Equipment Assembly"
+        },
+        {
+          "type": "paragraph",
+          "text": "① Overview. The purpose of this test (procedure) is to confirm that the packaged equipment is in the packaging state, whether packaged or not packaged, and its function is normal."
+        },
+        {
+          "type": "paragraph",
+          "text": "② Other. Other contents in the overview and control, test settings 4."
+        },
+        {
+          "type": "paragraph",
+          "text": "③ Test steps. For analysis of results, see GJB 150.18A-2009."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3) Procedure III — Fragility"
+        },
+        {
+          "type": "paragraph",
+          "text": "① Overview. The purpose of this test is to determine the equipment's ability to withstand the highest shock level (under this level of severity, the equipment's working structure and design has no structural damage). The actual maximum shock level of the shock input, if a high-level shock input is received, the equipment may lose its ability to function or be damaged. Through testing items at progressively lower levels of shock input while increasing, then gradually increasing to the point where conditions ① to ② are found to be met:"
+        },
+        {
+          "type": "paragraph",
+          "text": "a) Test failure occurs."
+        },
+        {
+          "type": "paragraph",
+          "text": "The purpose of this is: ① to establish the critical threshold amplitude for safe use. It means that before the test, the established critical component parameters have been recorded and their 'critical value' has been established. This is verified in the test, and the shock input is related to the amplitude of the failure mode. Furthermore, these critical component 'critical values' can be monitored, and the input reaches the maximum expected level under the predicted conditions of shock at a lower level, and the situation is generally such that the equipment produces large velocity/speed variations, and if the maximum velocity/speed variation is exceeded on the electric vibration table (test bench), as the electric vibration table's ability to perform the classic waveform shock test (bench) is achieved, a higher standard of the electric vibration table's compliance with the speed/velocity variation requirements needs to be met. If this is a pneumatic vibration table function (bench), consideration should be given to using complex conjugate shock waveform cutting. If input data is provided, the electric vibration table can be considered for use on the upper portion."
+        },
+        {
+          "type": "paragraph",
+          "text": "b) In the test, attention should be paid to ensuring that the maximum velocity change of the shock pulse is not able to be zero at the peak value of the constant situation. There is only one single parameter (shock pulse peak), which is easy to measure with quantitative values. In the shock, the corresponding classic waveform shock pulse can be clearly determined. A large velocity change is not guaranteed in the classic waveform shock pulse. It is not important, not controllable, and digital data processing, existing data and statistics can be used for dynamic mechanics matching of relevant data estimates. One important assumption for cutting and fragility tests is that in practical use, the trend is that the random shock magnitude increases linearly; otherwise, fragility testing procedures need to be used to determine the equipment's fragility magnitude."
+        },
+        {
+          "type": "paragraph",
+          "text": "② Other. Control, test tolerance, test steps, results analysis, and other equivalent documents reference GJB 150.18A-2009."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4) Procedure IV — Transportation Drop"
+        },
+        {
+          "type": "paragraph",
+          "text": "① Overview. The purpose of the test is to confirm that the equipment installed in the shipping container or packaging case, in a transportation drop condition, has intact structural and functional characteristics."
+        },
+        {
+          "type": "paragraph",
+          "text": "② Other. Other contents within the overview and the like, and the results analysis process reference GJB 150.18A-2009."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "5) Procedure V — Structural Integrity/Safety"
+        },
+        {
+          "type": "paragraph",
+          "text": "① Overview. The purpose of this test (procedure) is to reveal equipment or components on the surface of transport vehicles that are exposed to structural failures during transportation."
+        },
+        {
+          "type": "paragraph",
+          "text": "② Other. Other contents within the overview and related items, results analysis, see GJB 150.18A-2009."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "6) Procedure VI — Working Platform"
+        },
+        {
+          "type": "paragraph",
+          "text": "① Overview. The purpose of this test is to confirm that typical and classic working platform maintenance and repair requirements are met, so all functional working platforms and similar working platform maintenance work must be subjected to testing. It is also necessary to examine the structural organization and dynamic characteristics of the product."
+        },
+        {
+          "type": "paragraph",
+          "text": "② Inspection. Confirm that the test conditions and the actual equipment conditions are relatively identical. The distance from one side of the test piece to the basic horizontal working platform edge is 100mm, or the bottom surface and working platform form a 45° angle, or reach the balance. When the height of the drop reaches the maximum (the working platform surface shall be at least 42.5mm). Regulatory requirements require a series of actual drop tests to be confirmed during the test. The height used shall be the height of a typical actual step drop. These steps are usually performed by the skilled technicians and assemblers who work on the equipment."
+        },
+        {
+          "type": "paragraph",
+          "text": "③ Test tolerance. Confirm the drop height tolerance is within 5. (2) 6)② The specified drop height is 2.5 cm."
+        },
+        {
+          "type": "paragraph",
+          "text": "④ Test steps. The procedure VI steps are as follows:"
+        },
+        {
+          "type": "paragraph",
+          "text": "When conducting functional and structural inspection tests, such as removing the machine's housing plate and circuit board (when applicable), the test item should be handled under safe experimental conditions, and the test should be conducted during the same time period as a real working shift."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Use one side as the pivot point, rotate the other side of the workbench, tilt it high to one side (select the first side to raise first).",
+            "The bottom edge that is raised is already at a height above the horizontal surface of the workbench, approximately 100mm.",
+            "The bottom edge should be raised to the edge level at approximately zero degrees above the flat table surface or below.",
+            "Allow the bottom edge to freely drop onto the work surface.",
+            "The horizontal plane can also be used as a rotating pivot, allowing the gravity to slide up onto the work surface. Repeat step calculation for the total of 4 drop tests.",
+            "Perform external visual inspection of the component.",
+            "Record the test results.",
+            "Operate the test piece according to the technical document specifications."
+          ]
+        }
+      ]
+    },
+    "836": {
+      "page_type": "mixed",
+      "page_header": "Chapter 6  Remanufacturing of Hydraulic Cylinders",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Table 6-6 Brush Plating Repair Technology"
+        },
+        {
+          "type": "table",
+          "caption": "Table 6-6 Brush Plating Repair Technology",
+          "headers": [
+            "Serial No.",
+            "Name",
+            "Application Field",
+            "Main Content",
+            "Main Problems Solved",
+            "Category"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "(Mechanical and Electrical Product Remanufacturing Technology and Equipment Catalog) (I. Remanufacturing Forming and Processing Technology)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "Nano-composite Brush Plating Technology",
+              "Tanks, warships, aircraft, automobiles, machine tools and other military and civilian equipment and important components",
+              "Metal ions are deposited on the workpiece surface under the action of electric field force, forming a composite coating of gold base material. Gold nano-particles are co-deposited on the workpiece surface, forming nano-particle reinforced composite coating with the metal base, achieving metallic bond life extension. This technology has been widely promoted and can become a composite brush plating approach.",
+              "Integrating nano-technology with traditional brush plating technology. Adding nano-particles to the gold base brush plating solution, so that nano-particles can be co-deposited onto the brush plating coating, making the coating performance significantly improved. This technology has broad application prospects and is promoted. For traditional brush plating, its anti-fatigue performance in all aspects has been greatly improved, and can be used for equipment repair of worn components in remanufacturing and industrial applications.",
+              "Application"
+            ],
+            [
+              "",
+              "Typical Mechanical and Electrical Product Remanufacturing Technology and Equipment",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "Engine block internal bore brush plating technology",
+              "Automobile engine blocks, internal bore repair of zero parts",
+              "Through digital control, the brush plating electrodes are extended into the bore, then moved up and down in the bore by the actuator. The brush plating electrode sprays the plating solution in the bore and completes the plating. The brush plating can also be done with the negative electrode connected, and the brush plating solution can be used as the circulating solution flowing through the bore.",
+              "Through digital control methods, brush plating of internal bores in engine blocks and other surfaces to produce nano-brush plating coating, making the parts achieve comprehensive performance improvement in composite properties.",
+              "Research"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The basic principle of applying and promoting nano-composite brush plating technology with traditional (or conventional) methods is similar. The difference is: during the brush plating process, the nano-particles in the composite medium (1-100nm) are deposited on the workpiece surface under the action of electric field force together with binding ions and other processes, settling on the workpiece surface to become a coating layer with enhanced nano-particle dispersion. The nano-particles and the metal achieve co-deposition and form a composite brush plating layer."
+        },
+        {
+          "type": "paragraph",
+          "text": "The characteristic of composite brush plating of nano-particles is related to the fact that after the nano-particles are added to the brush plating solution, the particle size must be different from traditional materials, and the properties need to be selected based on the requirements. The nano-particle characteristics are as follows, and the nano-particles can also be added to different material systems (body) to achieve different nano-particle composites. The brush plating composite nano-particle technology includes:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The nano-composite brush plating solution contains nano-scale insoluble solid particles. The presence of nano-particles does not significantly affect the plating solution properties (such as acid-base properties, conductivity, electrode potential, etc.) and the coating quality (such as coating adhesion, porosity, surface roughness).",
+            "Through nano-composite brush plating, the obtained composite brush plating coating is more dense, the particle size is smaller, the composite coating layer (fiber) structure is finer, the nano-particle grains are distributed in the metal base and the basic structure is mainly composed of micro-nano crystalline products.",
+            "Nano-composite brush plating coating has better wear resistance, higher temperature resistance, and equivalent or better comprehensive performance compared to conventional metal brush plating. Nano-composite brush plating is demonstrated to work at higher temperatures.",
+            "Based on the different nano-particle coating materials added, various tools with abrasion resistance and corrosion resistance can be obtained. The brushing of multiple types of nano-particle materials for different applications can improve this. The method reduces the cost, and achieves the best performance-to-price ratio of nano-brush plating composite materials for the selection of all ceramic coating material types.",
+            "In the same base metal nano-composite coating (several types), the different types of nano-composite brush plating solutions have corresponding brush plating processes for different nano-composite brush plating. The process can obtain different property nano-brush plating composite layers. Reference [31]: nano-brush plating electrolyte solution contains about 20g/L nano-particles. Nano-particle brush plating is performed according to the specified process treatment.",
+            "There are also references and materials. Due to these reasons, nano-composite brush plating has become an important aspect for remanufacturing products replacing various sizes. Especially for precision parts manufacturing in medium and small batches, nano-particle addition can greatly improve the coating layer performance, and can help solve many problems in the remanufacturing process."
+          ]
+        }
+      ]
+    }
+  }
+}

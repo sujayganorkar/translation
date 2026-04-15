@@ -1,0 +1,231 @@
+{
+  "results": {
+    "20": {
+      "page_type": "table",
+      "page_header": "Chapter 1 Hydraulic Cylinder Design and Manufacturing Fundamentals 9",
+      "sections": [
+        {
+          "type": "table",
+          "caption": "(Continued)",
+          "headers": ["Serial No.", "Standard"],
+          "rows": [
+            ["53", "GB/T 9969—2008 (General principles for industrial product usage instructions)"],
+            ["54", "GB/T 10125—2012 (Artificial atmosphere corrosion tests — Salt spray tests)"],
+            ["55", "GB/T 10610—2009 (Product geometry technical specifications (GPS) — Surface texture — Profile method — Assessment of surface texture rules and methods)"],
+            ["56", "GB/T 10923—2009 (Hydraulic cylinders — Cylinder bore and piston rod outer diameter)"],
+            ["57", "GB/T 11352—2009 (General engineering cast carbon steel castings)"],
+            ["58", "GB/T 11379—2008 (Metal coating layer — Engineering chromium plating layer)"],
+            ["59", "GB/T 12332—2008 (Metal coating layer — Engineering nickel plating layer)"],
+            ["60", "GB 12348—2008 (Industrial enterprise boundary environmental noise emission standards)"],
+            ["61", "GB/T 12361—2016 (Steel die forgings — General technical conditions)"],
+            ["62", "GB/T 12467 (Part 1-5)—2009 (Metal material fusion welding quality requirements)"],
+            ["63", "GB/T 12611—2008 (Metal parts — Pre-painting quality control technical requirements)"],
+            ["64", "GB/T 13384—2008 (Electromechanical product packaging general technical conditions)"],
+            ["65", "GB/T 14408—2014 (General engineering cast low alloy steel castings)"],
+            ["66", "GB/T 14409—1993 (Aerospace stainless steel pipe bend classification)"],
+            ["67", "GB/T 17107—1997 (Forging structural steel mechanical properties and workability)"],
+            ["68", "GB/T 17487—1998 (Oil inlet and return and drain hydraulic cylinder barrel — Installation dimensions)"],
+            ["69", "GB/T 17490—1998 (Hydraulic control valves — Oil port, bottom plate, control devices and solenoid identification)"],
+            ["70", "GB/Z 18427—2001 (Hydraulic hose assembly — Hydraulic system external pipe joint classification)"],
+            ["71", "GB 18599—2001 (General industrial solid waste storage — Disposal site — Pollution control standard)"],
+            ["72", "GB/T 18854—2015 (Hydraulic transmission — Liquid automatic particle counter calibration)"],
+            ["73", "GB/T 19001—2016 (Quality management systems — Requirements)"],
+            ["74", "GB/T 19304—2003 (Forging classification method)"],
+            ["75", "GB/T 19350—2012 (Steel and other ferrous metal base layers — Measures to reduce blistering hazard in steel coatings)"],
+            ["76", "GB/T 19925—2005 (Hydraulic transmission — Diaphragm type inflatable hydraulic accumulator selection priority series — Nominal dimensions)"],
+            ["77", "GB/T 19926—2005 (Hydraulic transmission — Inflatable hydraulic accumulator rated gas volume)"],
+            ["78", "GB/T 19934.1—2005 (Hydraulic transmission — Metal pressure vessel fatigue pressure test — Part 1: Test method (New version replaced at fixed date))"],
+            ["79", "GB/T 20015—2005 (Steel and other ferrous metal base layers — Electroplating, autocatalytic plating, electroless deposition automatic rotation plating and dip plating)"],
+            ["80", "GB/T 24737.3—2009 (Technical management guidelines — Part 3: Product structure and technical documentation)"],
+            ["81", "GB/T 25375—2010 (Metal cutting machine tools — Combination painting color arrangement and marking)"],
+            ["82", "GB/T 26141—2010 (Hydraulic technical conditions — (Validation methods))"],
+            ["83", "GB 26484—2011 (Hydraulic press — Noise limits)"],
+            ["84", "GB/T 28782.2—2012 (Hydraulic transmission measurement technology — Part 2: Average flow rate of pipeline through average value static pressure flow measurement)"],
+            ["85", "GB/T 30207—2013 (Aerospace tubing — External diameter and wall thickness — Imperial size)"],
+            ["86", "GB/T 33289—2015 (Large forging parts — Cast high-quality carbon structural steel forgings and alloy structural steel)"],
+            ["87", "GB/T 32303—2015 (Structural adhesive crack fatigue expansion rate and threshold test conditions)"],
+            ["88", "GB/T 33083—2016 (Large structural steel plate — Technical conditions)"],
+            ["89", "GB/T 33084—2016 (Large aluminum alloy structural steel fasteners — Technical conditions)"],
+            ["90", "GB/T 33523.2—2017 (Product geometry technical specifications (GPS) — Surface texture area method — Part 2: Terms, definitions and surface texture parameters)"],
+            ["91", "GB/T 32515—2016 (Pipe thread cutting, grinding, blade groove and chamfering)"],
+            ["92", "GB/T 33582—2017 (Mechanical product structure finite element analysis general usage rules)"],
+            ["93", "GB/T 34626.1—2017 (Metal and other inorganic coating measurement — Metal surface preparation and cleaning equipment — Part 1: Steel and its alloys)"],
+            ["94", "GB/T 34882—2017 (Hydraulic cylinder forged part material blanking standard)"],
+            ["95", "GB/T 35023—2018 (Hydraulic element reliability assessment methods)"],
+            ["96", "GB/T 35478—2017 (Fasteners — Bolts, screws and studs — Surface defect acceptance limits technical conditions)"],
+            ["97", "GB/T 35480—2017 (Casting and forging steel coating micro-hardness composite bonding evaluation)"],
+            ["98", "GB/T 36997—2018 (Hydraulic transmission — Oil circuit block assembly and its components marking)"],
+            ["99", "GB/T 37400.1—2019 (Heavy machinery general technical conditions — Part 1: Product inspection)"],
+            ["100", "GB/T 37400.2—2019 (Heavy machinery general technical conditions — Part 2: Flame cutting parts)"],
+            ["101", "GB/T 37400.3—2019 (Heavy machinery general technical conditions — Part 3: Welded parts)"]
+          ]
+        }
+      ]
+    },
+    "54": {
+      "page_type": "text",
+      "page_header": "Chapter 1 Hydraulic Cylinder Design and Manufacturing Fundamentals 43",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "referred to as 'external leakage'. When the hydraulic oil, under a certain pressure and viscosity, flows from the hydraulic cylinder's internal chamber to the atmosphere, this is called external leakage."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is also a definition of leakage, as defined in JB/T 13566—2018, which specifies that within 10 minutes if leakage exceeds one drop of oil, it is considered leakage, not a single drop of leakage."
+        },
+        {
+          "type": "paragraph",
+          "text": "In reference document [102] it states: 'Leakage generally can be classified by form into: seepage, leakage, and diffusion. Leakage occurring in hydraulic cylinder seals is mainly seepage (or infiltration). Due to the characteristics of leakage classification, leakage through felt tube seals also counts as leakage, while hydraulic cylinder seal product seepage generally does not have a fixed amount. The statement that leakage occurring in hydraulic cylinder seals is primarily seepage is a classification standard.'"
+        },
+        {
+          "type": "paragraph",
+          "text": "What also needs to be noted is that leakage (quantity) as a measure of how much leak cannot be used as leakage. Its unit can be verified through GB/Z 18427—2001, but it is not the same as leaking material. Reference document [102] states: for metal pipe fittings (full pipes or tube fittings), braze welding, and silver brazing are used. In the GB/T 241—2007 standard, 'leakage' is used within the scope of cast iron and non-ferrous metal tubes at room temperature and below, as the basic type and standard."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "5. Combined Seals"
+        },
+        {
+          "type": "paragraph",
+          "text": "In GB/T 15242.1—2017, three types of combined seals are defined along with their terminology and definitions, categorized as 'hole type combined seal', 'shaft type stepped seal', and 'shaft type sliding lip seal'. However, this standard does not provide the terminology for 'shaft seal' and 'combined shaft seal'. The standard's normative references cite GB/T 17446—2012, which also does not have the term 'combined shaft seal'. This terminology and definition has become an established convention without formal verification. For example, the term 'combined shaft seal' has become a commonly used informal term. If this is considered a problem, reference document [102] notes that in JB/T 8241—1996, the term 'shaft seal' was defined. This term 'combined shaft seal' covers the plastic seal ring combined with the rubber seal ring to form the shaft seal. Therefore, 'combined seal' also includes 'stepped seal' and 'combined shaft seal'. The term 'combined shaft seal' also includes lip seal ring cross-section surface plastic seal rings."
+        },
+        {
+          "type": "paragraph",
+          "text": "A combined seal (or ring) is composed of two or more of the above types of components, achieving the sealing function through different materials. The sealed components are combined into a single unit. Compared to single-material seals, the overall sealing performance of combined seals is better."
+        },
+        {
+          "type": "paragraph",
+          "text": "The terms 'combined shaft seal' in the context of 'combined seals' are not bore seals, but rather the distinction between combined seal types is characterized by differences. Bore seals reference bore types, while shaft seals reference shaft types. They share common features, as in the GB/T 10708.2—2000 standard, the 'ribbed rubber seal ring' and 'chevron rubber seal ring' both share these characteristics."
+        },
+        {
+          "type": "paragraph",
+          "text": "the characteristic that it is called 'bi-directional rubber seal ring' rather than 'combined shaft seal'."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the definition in GB/T 15242.1—2017 regarding this type of seal, its characteristic is that the structural component is called 'plastic ring' or 'plastic part'. Therefore, see JB/T 10205—2010 regarding the definition of 'slip ring combined seal'. There is a common issue, but overall, looking at GB/T 15242.1—2017, the combined seal is better. Further analyzing 'slip ring combined seal' as a seal classification and its relationship to elastic and flexible materials, seals operate through the seal body under applied force and stress to release and achieve actual deformation, allowing the elastic deformation capability to quickly restore to its initial close fit with the sealed surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "The above definition of 'elastic material' is derived from GB/T 15242.1—2017. The normative reference is GB/T 17446—2012, which also redefines it as 'elastic material'. The preceding description states it follows GB/T 9981—2008, while the latter states GB/T 17446—2012. The 2012 version of this standard provides normative and general rule definitions for materials and related standard specifications."
+        },
+        {
+          "type": "paragraph",
+          "text": "In GB/T 15242.1—2017, 'seal carrier' is defined as: the cylinder bore piston or piston rod active seal groove that relies on elastomeric force to achieve the sealed condition."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "6. Sealing System"
+        },
+        {
+          "type": "paragraph",
+          "text": "'Sealing system' is frequently found in various documents, materials, and notes. In GB/T 33217—2015 standard, it is not yet formally listed with separate terminology."
+        },
+        {
+          "type": "paragraph",
+          "text": "To further clarify: 'Hydraulic sealing system' refers to a given concept with an active definition. It can be referenced in document [102]. The main point is that it can be further understood by considering the design concept of hydraulic cylinder seals. Hydraulic cylinder seal design should focus on the overall sealing concept, not just individual seal components, but rather the integration of seal components with the installation groove design, unified coordination. As a general indication, if only one seal (ring) is referred to, this is the seal system terminology. However, the actual sealing characteristic is the combination of two seal component fittings, which may not necessarily be called a sealing system. For pistons with seal grooves, or two or more seal component fittings, the combined sealing system has the characteristic of increasing sealing reliability. A single seal fitting cannot be used as a sealing system alone. Hydraulic cylinder seal systems must meet the hydraulic cylinder seal (performance) requirements. Hydraulic cylinder seal systems are either static or dynamic seal systems. Hydraulic cylinder seal systems are composed of multiple seal systems. Hydraulic cylinder seal system emphasis is on (special) conditions."
+        }
+      ]
+    },
+    "137": {
+      "page_type": "mixed",
+      "page_header": "126 Hydraulic Cylinder Handbook",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "the differential circuit of the double-acting single piston rod hydraulic cylinder's theoretical output thrust calculation."
+        },
+        {
+          "type": "note",
+          "text": "Note: The 'theoretical output force' specified in JB/T 10205—2010 refers to the force including a notional pressure value within the internal rated pressure drop (or within the rated pressure), and the theoretical output force must be strictly observed. The items mentioned above, such as notional pressure force, then the notional pressure force is the pressure value below the theoretical output force."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(2) Cylinder motion resistance force calculation"
+        },
+        {
+          "type": "paragraph",
+          "text": "The actual output of the cylinder is less than the theoretical output, because in the cylinder's theoretical output force calculation, the frictional resistance generated by backpressure, the resistance of leakage, etc. are not considered. The cylinder motion resistance force calculation formula is:"
+        },
+        {
+          "type": "formula",
+          "text": "F = F₁ + F₂ + F₃ + F₄ + F₅  (2-4)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where: F — Cylinder motion total resistance force, or calculated as the piston (piston rod) external cutting load, unit: N; F₁ — External load, including friction force between the cylinder and external load, this is mainly composed of the friction force of the moving parts connected to the cylinder and piston rod, and the external load reaction force acting on the driving side, with numerical value approximately equal to the actual output force, unit: N; F₂ — Hydraulic cylinder seal device and system friction force, generally calculated as approximately 4% of the theoretical cylinder force, unit: N; F₃ — Backpressure generated resistance force, including the slow deceleration when the hydraulic cylinder enters the buffer zone and the buffering back pressure, unit: N; F₄ — Cylinder and connecting moving parts calculated to the cylinder shaft line gravitational force, in formula (2-4), when the gravitational force direction is opposite to the motion direction, take '+'; when gravitational force direction is the same as the motion direction, take '−', F₄ = mg; F₅ — When the hydraulic cylinder is starting, braking or reversing, the cylinder and connecting moving parts calculated to the piston (piston rod) inertia force, in formula (2-4), when adding acceleration, take '+'; when reducing braking, take '−', F₅ = ma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where: m — Cylinder and connecting moving parts calculated to the piston (piston rod) mass, unit: kg; g — Gravitational acceleration, g = 9.80665 m/s²; a — Acceleration, uniform speed a = 0, unit: m/s². The formula m = F/g can be used to find the cylinder and connecting moving parts calculated to the piston (piston rod) mass."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(3) Cylinder travel speed calculation formula"
+        },
+        {
+          "type": "paragraph",
+          "text": "1) For double-acting single piston rod hydraulic cylinder, the cylinder advance speed calculation formula is:"
+        },
+        {
+          "type": "formula",
+          "text": "v₁ = Q / (60A₁) × 10⁶  (2-5)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where: v₁ — Double-acting single piston rod hydraulic cylinder advance speed, unit: mm/s; Q — Rod-less chamber input flow rate, unit: L/min; A₁ — Rod-less chamber effective area, A₁ = π/4 × D², unit: mm²; D — Cylinder (inner) diameter, unit: mm."
+        },
+        {
+          "type": "paragraph",
+          "text": "The cylinder return stroke speed calculation formula is:"
+        },
+        {
+          "type": "formula",
+          "text": "v₂ = Q / (60A₂) × 10⁶  (2-6)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where: v₂ — Double-acting single piston rod hydraulic cylinder return speed, unit: mm/s; Q — Rod chamber input flow rate, unit: L/min; A₂ — Rod chamber effective area, A₂ = π/4 × (D² − d²), unit: mm²; D — Cylinder (inner) diameter, unit: mm; d — Piston rod diameter, unit: mm."
+        },
+        {
+          "type": "paragraph",
+          "text": "2) For single-acting plunger type hydraulic cylinder, the cylinder advance speed calculation formula is:"
+        },
+        {
+          "type": "formula",
+          "text": "v₃ = Q / (60A₃) × 10⁶  (2-7)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where: v₃ — Single-acting plunger type hydraulic cylinder advance speed, unit: mm/s; Q — Working chamber input flow rate, unit: L/min; A₃ — Plunger rod cross-section area, A₃ = π/4 × d², unit: mm²; d — Plunger rod diameter, unit: mm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Formula (2-7) is applicable to plunger type cylinders and also to hydraulic cylinders used as actuating elements in differential circuits of double-acting single piston rod hydraulic cylinder advance speed calculation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "(4) Double-acting single piston rod hydraulic cylinder reciprocating speed ratio calculation"
+        },
+        {
+          "type": "paragraph",
+          "text": "The reciprocating speed ratio calculation formula is:"
+        },
+        {
+          "type": "formula",
+          "text": "φ — Double-acting single piston rod hydraulic cylinder advance speed to return speed ratio, abbreviated as speed ratio: φ = (D² − d²) / D²  (2-8)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where: φ — Double-acting single piston rod hydraulic cylinder advance speed to return speed ratio, abbreviated as speed ratio; A₁ — Rod-less chamber effective area, unit: mm²; A₂ — Rod chamber effective area, unit: mm²; D — Cylinder (inner) diameter, unit: mm; d — Two-sided area difference, i.e., π/4 × (D² − d²) unit: mm²."
+        }
+      ]
+    }
+  }
+}
