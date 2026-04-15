@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Generated/Output files
+*.json
+!translate*.json  # keep config if any
+
+# Large files
+*.pdf
+page_images/
+archive/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
