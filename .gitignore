@@ -4,18 +4,17 @@ __pycache__/
 *$py.class
 *.so
 .pytest_cache/
+.venv/
+venv/
 
-# Environment
+# Environment — NEVER commit API keys
 .env
 
 # Logs
 *.log
 
-# Generated/Output files
+# Generated / output files (large, user-specific — not tracked)
 *.json
-!translate*.json  # keep config if any
-
-# Large files
 *.pdf
 page_images/
 archive/
@@ -24,5 +23,10 @@ archive/
 .vscode/
 .idea/
 
+# AI tool local settings
+.claude/
+.aider/
+
 # OS
 .DS_Store
+Thumbs.db

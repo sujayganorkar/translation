@@ -1,0 +1,6 @@
+# Core dependencies
+anthropic>=0.40.0        # Claude API (describe-pages, merge, qa)
+pymupdf>=1.24.0          # PDF rasterization and rendering (book_pipeline.py extract)
+pypdf>=4.0.0             # PDF text extraction (extract_and_prepare.py)
+reportlab>=4.2.0         # PDF generation (book_pipeline.py build)
+python-dotenv>=1.0.0     # .env file loading

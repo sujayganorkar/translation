@@ -1,0 +1,33 @@
+name: Lint
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install ruff
+
+      - name: Ruff lint
+        run: ruff check .
+
+      - name: Check for secrets accidentally committed
+        run: |
+          if git log --all -p -- .env | grep -E 'sk-ant-|sk-or-'; then
+            echo "ERROR: API keys detected in git history!"
+            exit 1
+          fi
+          echo "No API keys found in history."
