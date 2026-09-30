@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Anthropic](https://img.shields.io/badge/API-Anthropic-purple)](https://www.anthropic.com/)
 
-A high-quality, resumable pipeline that translates Chinese technical PDFs to English using a dual-source approach — combining VLM image analysis with free text translation, then using Claude Sonnet to merge and reconcile the two sources.
+A high-quality, resumable pipeline that translates Chinese technical PDFs to English using a dual-source approach — combining VLM image analysis with free text translation, then using Claude Sonnet to merge and reconcile the two sources. just ask your coding agent to understand how this tool works, its pretty simple and you might need to do a few tweaks based on what format your book is.
 
 ---
 
